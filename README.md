@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FARM one-word domains still available to buy.
 
-This dataset contains 4,202 .FARM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,199 .FARM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FARM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=farm-oneword-domains&utm_content=description.top) (4,202) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.FARM one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.farm        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.farm        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.farm  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.farm      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.farm    | available | 60       | 2%     | 7      |           |         |         |
