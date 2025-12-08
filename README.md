@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FARM one-word domains still available to buy.
 
-This dataset contains 4,214 .FARM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,420 .FARM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FARM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=farm-oneword-domains&utm_content=description.top) (4,216) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,14 @@ If you want to search & filters the complete database of [.FARM one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/farm-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.csv"><b>⬇️ CSV (4.21K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.json"><b>⬇️ JSON (4.21K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.csv"><b>⬇️ CSV (4.42K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.json"><b>⬇️ JSON (4.42K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=farm-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.22K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.farm        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.farm  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.farm      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.farm    | available | 60       | 2%     | 7      |           |         |         |
@@ -41,9 +40,10 @@ If you want to search & filters the complete database of [.FARM one word domains
 | aberrant.farm   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.farm    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.farm  | available | 54       | 3%     | 9      |           |         |         |
+| abide.farm      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.farm    | available | 106      | 5%     | 7      |           |         |         |
 | abient.farm     | available | 54       | 1%     | 6      |           |         |         |
-| abit.farm       | available | 66       | 16%    | 5      |           |         |         |
+| abit.farm       | available | 66       | 12%    | 5      |           |         |         |
 | abject.farm     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.farm     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.farm  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.FARM one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/farm-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.csv"><b>⬇️ CSV (4.21K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.json"><b>⬇️ JSON (4.21K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.csv"><b>⬇️ CSV (4.42K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/farm-oneword-domains/blob/main/farm.json"><b>⬇️ JSON (4.42K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=farm-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.22K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.FARM one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
