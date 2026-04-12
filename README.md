@@ -1,20 +1,20 @@
-# Available .FARM One-Word Domains (8,391)
+# Available .FARM One-Word Domains (8,390)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C390%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C391%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C390%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .farm one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .farm one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,390-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,391 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,390 rows · **Live catalog:** 8,391 domains
+**Public extract:** 8,390 rows · **Live catalog:** 8,390 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/farm`  
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,390-row public sample | 8,391 live domains                               |
+| 8,390-row public sample | 8,390 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
