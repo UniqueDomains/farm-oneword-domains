@@ -68,22 +68,22 @@ print(df.head())
 | total.farm    | resell    | $13.99    | $50.99        | 108            | 38     | 5      | Spaceship, Inc. |
 | travel.farm   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap       |
 | shared.farm   | available | $13.99    | $50.99        | 70             | 41     | 6      | name.com        |
-| sharp.farm    | resell    | $13.99    | $50.99        | 84             | 36     | 5      | Spaceship, Inc. |
+| terminal.farm | resell    | $13.99    | $50.99        | 104            | 37     | 8      | Spaceship, Inc. |
 | pop.farm      | premium   | $42.90    | $42.90        | 82             | 43     | 3      | namecheap       |
-| gather.farm   | available | $13.99    | $50.99        | 96             | 38     | 6      | name.com        |
-| trip.farm     | resell    | $49.98    | —             | 110            | 35     | 4      | Spaceship, Inc. |
+| gather.farm   | available | $13.99    | $50.99        | 96             | 39     | 6      | name.com        |
+| sharp.farm    | resell    | $13.99    | $50.99        | 84             | 36     | 5      | Spaceship, Inc. |
 | wiz.farm      | premium   | $13.99    | $50.99        | 80             | 32     | 3      | name.com        |
 | order.farm    | available | $13.99    | $50.99        | 78             | 38     | 5      | name.com        |
-| advance.farm  | resell    | $13.99    | $50.99        | 110            | 33     | 7      | Spaceship, Inc. |
+| trip.farm     | resell    | $49.98    | —             | 110            | 35     | 4      | Spaceship, Inc. |
 | adult.farm    | premium   | $500      | $500          | 110            | 30     | 5      | name.com        |
 | dental.farm   | available | $13.99    | $50.99        | 90             | 36     | 6      | name.com        |
-| study.farm    | resell    | $49.98    | —             | 102            | 32     | 5      | Spaceship, Inc. |
+| advance.farm  | resell    | $13.99    | $50.99        | 110            | 33     | 7      | Spaceship, Inc. |
 | goods.farm    | premium   | $520      | $520          | 64             | 26     | 5      | namecheap       |
-| hidden.farm   | available | $13.99    | $50.99        | 65             | 35     | 6      | name.com        |
-| jump.farm     | resell    | $13.99    | $50.99        | 72             | 32     | 4      | Spaceship, Inc. |
+| quality.farm  | available | $13.99    | —             | 78             | 35     | 7      | name.com        |
+| study.farm    | resell    | $49.98    | —             | 102            | 32     | 5      | Spaceship, Inc. |
 | dutch.farm    | premium   | $123.75   | $123.75       | 92             | 25     | 5      | name.com        |
 | done.farm     | available | $13.99    | $50.99        | 80             | 34     | 4      | name.com        |
-| champion.farm | resell    | $13.99    | $50.99        | 72             | 32     | 8      | Spaceship, Inc. |
+| jump.farm     | resell    | $13.99    | $50.99        | 72             | 32     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
