@@ -1,22 +1,22 @@
-# Available .FARM One-Word Domains (8,390)
+# Available .FARM One-Word Domains (10,684)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C391%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C390%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C684%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .farm one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .farm one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,684 domains** on the canonical page below.
 
-**Public extract:** 8,391 rows · **Live catalog:** 8,390 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,684 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/farm`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FARM one-word domain 
 
 ### Files
 
-- `farm.csv` — public CSV extract (8,391 rows)
-- `farm.json` — public JSON extract (8,391 rows)
+- `farm.csv` — public CSV extract (1,000 rows)
+- `farm.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| silver.farm   | available | $49.98    | —             | 56             | 99     | 6      | namecheap       |
-| total.farm    | resell    | $13.99    | $50.99        | 108            | 38     | 5      | Spaceship, Inc. |
-| travel.farm   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap       |
-| shared.farm   | available | $13.99    | $50.99        | 70             | 41     | 6      | name.com        |
-| terminal.farm | resell    | $13.99    | $50.99        | 104            | 37     | 8      | Spaceship, Inc. |
-| pop.farm      | premium   | $42.90    | $42.90        | 82             | 43     | 3      | namecheap       |
-| gather.farm   | available | $13.99    | $50.99        | 96             | 39     | 6      | name.com        |
-| sharp.farm    | resell    | $13.99    | $50.99        | 84             | 36     | 5      | Spaceship, Inc. |
-| wiz.farm      | premium   | $13.99    | $50.99        | 80             | 32     | 3      | name.com        |
-| order.farm    | available | $13.99    | $50.99        | 78             | 38     | 5      | name.com        |
-| trip.farm     | resell    | $49.98    | —             | 110            | 35     | 4      | Spaceship, Inc. |
-| adult.farm    | premium   | $500      | $500          | 110            | 30     | 5      | name.com        |
-| dental.farm   | available | $13.99    | $50.99        | 90             | 36     | 6      | name.com        |
-| advance.farm  | resell    | $13.99    | $50.99        | 110            | 33     | 7      | Spaceship, Inc. |
-| goods.farm    | premium   | $520      | $520          | 64             | 26     | 5      | namecheap       |
-| quality.farm  | available | $13.99    | —             | 78             | 35     | 7      | name.com        |
-| study.farm    | resell    | $49.98    | —             | 102            | 32     | 5      | Spaceship, Inc. |
-| dutch.farm    | premium   | $123.75   | $123.75       | 92             | 25     | 5      | name.com        |
-| done.farm     | available | $13.99    | $50.99        | 80             | 34     | 4      | name.com        |
-| jump.farm     | resell    | $13.99    | $50.99        | 72             | 32     | 4      | Spaceship, Inc. |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| WiFi.farm         | available | $49.98    | —             | 83             | 37     | 5      | namecheap                                   |
+| ant.farm          | resell    | —         | —             | 76             | 60     | 3      | Porkbun LLC                                 |
+| SanDiego.farm     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo                                    |
+| neuroscience.farm | available | $13.99    | —             | 80             | 37     | 12     | name.com                                    |
+| geeks.farm        | resell    | —         | —             | 54             | 21     | 5      | GoDaddy.com, LLC                            |
+| pages.farm        | premium   | $250      | —             | 52             | 28     | 5      | name.com                                    |
+| etc.farm          | available | $13.99    | —             | 58             | 34     | 3      | name.com                                    |
+| solarpower.farm   | resell    | —         | —             | 84             | 15     | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| systems.farm      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com                                    |
+| popup.farm        | available | $13.99    | —             | 84             | 29     | 6      | name.com                                    |
+| girls.farm        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                    |
+| heroes.farm       | available | $13.99    | —             | 68             | 29     | 6      | name.com                                    |
+| estates.farm      | premium   | $123.75   | —             | 50             | 16     | 7      | name.com                                    |
+| forms.farm        | available | $13.99    | —             | 54             | 28     | 5      | name.com                                    |
+| prices.farm       | premium   | $123.75   | —             | 51             | 15     | 6      | name.com                                    |
+| KFC.farm          | available | $49.98    | —             | 74             | 27     | 3      | namecheap                                   |
+| schools.farm      | available | $13.99    | —             | 72             | 24     | 7      | name.com                                    |
+| reports.farm      | available | $13.99    | —             | 58             | 24     | 7      | name.com                                    |
+| echoes.farm       | available | $13.99    | —             | 56             | 24     | 6      | name.com                                    |
+| superhero.farm    | available | $13.99    | —             | 84             | 23     | 9      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,391-row public sample | 8,390 live domains                               |
+| 1,000-row public sample | 10,684 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
