@@ -153,7 +153,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0eb50165-4af6-4756-8c39-2cab0da0a5a1,coffeesugar.farm,available,13.99,,62,0,12,name.com,,
 0ec3f9ed-9869-406d-b944-b8f2d6d25b31,getthroughto.farm,available,13.99,,49,1,14,name.com,,
 0eeaeae1-aa2b-4cfc-9093-618133197c48,manuallabour.farm,available,13.99,,58,1,13,name.com,,
-0ef080ae-aced-4aff-a544-5b55437d8393,ant.farm,resell,,,76,60,3,Porkbun LLC,17/10/2017 23:18,17/10/2026 23:18
+0ef080ae-aced-4aff-a544-5b55437d8393,ant.farm,resell,,,76,62,3,Porkbun LLC,17/10/2017 23:18,17/10/2026 23:18
 0ef4bfb2-bb55-482c-a60c-0a6dc8270f20,commonnouns.farm,available,13.99,,54,0,12,name.com,,
 0f000d8c-06be-41ef-8624-dd5d2d2ba227,sockyarn.farm,available,13.99,,64,1,9,name.com,,
 0f02a068-1b8f-4f3f-a74b-8696df3095c1,makeuseof.farm,available,13.99,,58,2,11,name.com,,
