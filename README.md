@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .farm one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,270 domains · **Median ask:** $17.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/farm`  
 **Best for:** founders, investors, studios
 
@@ -73,9 +73,9 @@ print(df.head())
 | etc.farm          | available | $13.99    | —             | 58             | 34     | 3      | name.com         |
 | manuals.farm      | resell    | —         | —             | 54             | 13     | 7      | GoDaddy.com, LLC |
 | systems.farm      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
-| popup.farm        | available | $13.99    | —             | 84             | 29     | 6      | name.com         |
-| girls.farm        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
 | heroes.farm       | available | $13.99    | —             | 68             | 29     | 6      | name.com         |
+| girls.farm        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
+| popup.farm        | available | $13.99    | —             | 84             | 28     | 6      | name.com         |
 | estates.farm      | premium   | $123.75   | —             | 50             | 16     | 7      | name.com         |
 | KFC.farm          | available | $49.98    | —             | 74             | 27     | 3      | namecheap        |
 | prices.farm       | premium   | $123.75   | —             | 51             | 15     | 6      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
