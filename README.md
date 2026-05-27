@@ -1,10 +1,10 @@
-# Available .FARM One-Word Domains (11,270)
+# Available .FARM One-Word Domains (11,271)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C270%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C271%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .farm one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,270 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,271 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,270 domains · **Median ask:** $17.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,271 domains · **Median ask:** $17.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/farm`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | neuroscience.farm | available | $13.99    | —             | 80             | 37     | 12     | name.com         |
 | geeks.farm        | resell    | —         | —             | 54             | 21     | 5      | GoDaddy.com, LLC |
 | pages.farm        | premium   | $250      | —             | 52             | 28     | 5      | name.com         |
-| etc.farm          | available | $13.99    | —             | 58             | 34     | 3      | name.com         |
+| etc.farm          | available | $13.99    | —             | 58             | 32     | 3      | name.com         |
 | manuals.farm      | resell    | —         | —             | 54             | 13     | 7      | GoDaddy.com, LLC |
 | systems.farm      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
 | heroes.farm       | available | $13.99    | —             | 68             | 29     | 6      | name.com         |
@@ -80,10 +80,10 @@ print(df.head())
 | KFC.farm          | available | $49.98    | —             | 74             | 27     | 3      | namecheap        |
 | prices.farm       | premium   | $123.75   | —             | 51             | 15     | 6      | name.com         |
 | schools.farm      | available | $13.99    | —             | 72             | 24     | 7      | name.com         |
+| inhouse.farm      | available | $13.99    | —             | 70             | 24     | 8      | name.com         |
 | reports.farm      | available | $13.99    | —             | 58             | 24     | 7      | name.com         |
 | coupons.farm      | available | $13.99    | —             | 52             | 24     | 7      | name.com         |
 | superhero.farm    | available | $13.99    | —             | 84             | 23     | 9      | name.com         |
-| deeplearning.farm | available | $13.99    | —             | 74             | 23     | 13     | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,270 live domains                        |
+| 1,000-row public sample | 11,271 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
