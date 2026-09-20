@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .farm one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,624 domains · **Median ask:** $9.82 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/farm`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aft.farm     | available | $4.98     | $49.98        | low            | low    | 3      | namecheap                                                 |
-| fly.farm     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| calf.farm    | premium   | $38.94    | $38.94        | high           | low    | 4      | namesilo                                                  |
-| bce.farm     | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
-| gas.farm     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| girl.farm    | premium   | $123.75   | —             | medium         | low    | 4      | name.com                                                  |
-| cut.farm     | available | $13.99    | $50.99        | high           | low    | 3      | name.com                                                  |
-| job.farm     | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| page.farm    | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                                  |
-| cxx.farm     | available | $4.98     | $49.98        | low            | low    | 3      | namecheap                                                 |
-| key.farm     | resell    | —         | —             | medium         | medium | 3      | Squarespace Domains II LLC                                |
-| rain.farm    | premium   | $38.94    | $38.94        | high           | low    | 4      | namesilo                                                  |
-| dye.farm     | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
-| lot.farm     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
-| rural.farm   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
-| Fla.farm     | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
-| use.farm     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| tobacco.farm | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo                                                  |
-| how.farm     | available | $13.99    | —             | high           | low    | 3      | name.com                                                  |
-| base.farm    | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                           |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aft.farm      | available | $4.98     | $49.98        | low            | low    | 3      | namecheap                                                 |
+| fly.farm      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| calf.farm     | premium   | $38.94    | $38.94        | high           | low    | 4      | namesilo                                                  |
+| bce.farm      | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
+| gas.farm      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| girl.farm     | premium   | $123.75   | —             | medium         | low    | 4      | name.com                                                  |
+| cut.farm      | available | $13.99    | $50.99        | high           | low    | 3      | name.com                                                  |
+| job.farm      | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| page.farm     | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                                  |
+| cxx.farm      | available | $4.98     | $49.98        | low            | low    | 3      | namecheap                                                 |
+| key.farm      | resell    | —         | —             | medium         | low    | 3      | Squarespace Domains II LLC                                |
+| rural.farm    | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
+| dye.farm      | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
+| lot.farm      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| tobacco.farm  | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo                                                  |
+| fla.farm      | available | $13.99    | —             | medium         | low    | 3      | name.com                                                  |
+| use.farm      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| american.farm | premium   | $242      | $242          | high           | low    | 8      | namesilo                                                  |
+| how.farm      | available | $13.99    | —             | high           | low    | 3      | name.com                                                  |
+| base.farm     | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
