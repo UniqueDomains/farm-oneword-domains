@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-62479322-ab7d-4c73-a9ae-71cb76d8516f,beer.farm,resell,,,high,low,4,Porkbun LLC,18/05/2021 13:12,18/05/2027 13:12,26/09/2026 04:20
+62479322-ab7d-4c73-a9ae-71cb76d8516f,beer.farm,resell,,,high,medium,4,Porkbun LLC,18/05/2021 13:12,18/05/2027 13:12,29/09/2026 02:00
 9962cca9-c9d4-445f-ae91-a8132b8deffa,overblown.farm,available,4.98,49.98,medium,low,9,namecheap,,,04/09/2026 20:19
 f452a75c-c412-41ac-b1ea-a4ab4303a609,atoll.farm,available,4.98,49.98,high,low,5,namecheap,,,20/09/2026 21:52
 5842075f-630b-4b5d-a681-4d554819afbd,supernal.farm,available,4.98,49.98,medium,low,8,namecheap,,,11/09/2026 02:23
@@ -10,13 +10,16 @@ cbecb0e7-8d31-4deb-ad0a-1d2a9336b688,piddle.farm,available,4.98,49.98,low,low,6,
 f60ba36a-87a6-4d38-b3cd-5dfc0dcf2554,arabis.farm,available,15.99,38.99,high,low,6,namesilo,,,19/09/2026 23:33
 450feb40-6022-4c6b-999c-9b715133bf09,neuroscience.farm,available,30.2,30.2,high,low,12,cloudflare,,,28/09/2026 04:12
 6e740526-5037-4c8e-8167-003e13f5e304,uniformed.farm,available,4.98,49.98,medium,low,9,namecheap,,,12/09/2026 12:57
+460eeca1-ddc6-4ea3-b2b8-a5429ec0078c,grazing.farm,available,15.99,38.99,high,low,7,namesilo,,,29/09/2026 01:08
 0a4e293d-26cf-4850-a02f-9735fd1f96db,aflatoxin.farm,available,15.99,38.99,medium,low,9,namesilo,,,17/09/2026 15:06
-722a9037-3b34-4db5-acfe-c928608d6bc8,urge.farm,available,13.99,,high,low,4,name.com,,,
-a56856c0-f70e-48bd-b3b8-a48e87127cd4,initially.farm,available,13.99,,high,low,9,name.com,,,
+7753d067-6ea7-4f08-b6f5-cb4669447acd,correspondent.farm,available,15.99,38.99,medium,low,13,namesilo,,,29/09/2026 03:16
+722a9037-3b34-4db5-acfe-c928608d6bc8,urge.farm,available,30.2,30.2,high,low,4,cloudflare,,,28/09/2026 19:09
+a56856c0-f70e-48bd-b3b8-a48e87127cd4,initially.farm,available,30.2,30.2,medium,low,9,cloudflare,,,28/09/2026 11:32
 d4a9603c-6d66-423a-9dc8-1480eedc8544,assouan.farm,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 16:37
 40f1d0f6-1e37-42ab-b49d-c288580f67aa,pushup.farm,available,13.99,,high,low,7,name.com,,,
 a8050ce8-4a92-490b-a555-abee06e6a76a,mightily.farm,available,4.98,49.98,medium,low,8,namecheap,,,24/08/2026 22:45
 46fbc556-40e2-4d79-bac5-1975543f15a1,alfredo.farm,available,7.71,32.21,high,low,7,dynadot,,,28/09/2026 04:35
+c54e7bf3-a373-4fe4-8380-612fa704872c,mazda.farm,available,4.34,31.25,high,low,5,spaceship,,,28/09/2026 16:04
 3c4ffecb-64e0-4301-95ef-94c19edb1481,guatemalan.farm,available,4.98,49.98,high,low,10,namecheap,,,20/08/2026 20:45
 629e2d5d-6295-4496-aa3a-905f9766b645,babushka.farm,available,4.98,49.98,high,low,8,namecheap,,,21/09/2026 12:58
 a16fb84f-32c7-4aea-8b89-b711a0aa05ea,easterly.farm,available,4.98,49.98,medium,low,8,namecheap,,,14/08/2026 22:51
@@ -30,6 +33,7 @@ b2ca44e5-3696-412e-85ea-a06090e6ce22,liv.farm,available,4.98,49.98,high,low,3,na
 6d613b95-e3b9-47fb-99b3-0ce6f66be3b2,aerobe.farm,available,15.99,38.99,medium,low,6,namesilo,,,17/09/2026 12:54
 1a4f7f5a-5dcb-44ad-839a-111dd6dc4461,alpena.farm,available,15.99,38.99,medium,low,6,namesilo,,,18/09/2026 13:31
 1a35ab0f-e3e7-48b8-a75e-0ed45b606c29,ailment.farm,available,4.98,49.98,medium,low,7,namecheap,,,21/08/2026 18:47
+fb78b5a9-19ed-40c0-9ed5-a633b19a8177,blaming.farm,available,7.71,32.21,medium,low,7,dynadot,,,28/09/2026 18:00
 ff6ee0a5-d646-40cf-a502-d698b41b00dc,applique.farm,available,15.99,38.99,medium,low,8,namesilo,,,19/09/2026 21:57
 d261be0f-a8b1-4f00-9c31-e71389c60140,relieved.farm,available,4.98,49.98,high,low,8,namecheap,,,
 7dcb3bc0-09a2-4fb4-a093-4a4d6dfdaf43,labile.farm,available,4.98,49.98,medium,low,6,namecheap,,,22/08/2026 17:32
@@ -55,15 +59,17 @@ e3468ae2-7c4d-4a43-a586-9714e21b784e,streaked.farm,available,4.98,49.98,medium,l
 bcf442be-702e-4a27-88da-89b72def03b5,canned.farm,available,4.98,49.98,high,low,6,namecheap,,,11/08/2026 17:10
 6a457764-bdc1-409f-8d2b-4753d97168cc,vinous.farm,available,4.98,49.98,medium,low,6,namecheap,,,13/09/2026 05:47
 59e9432d-be14-4ad1-8d1f-958e6b8f6c67,salad.farm,available,13.99,,high,low,5,name.com,,,
-489b5f03-40cd-436e-8fe1-33308fdfabd5,student.farm,resell,49.98,,high,low,7,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,26/09/2026 09:21
+506dead4-bd68-4e96-b1b2-7c4cdcfc9c91,ventilation.farm,available,7.71,32.21,high,low,11,dynadot,,,29/09/2026 04:52
+489b5f03-40cd-436e-8fe1-33308fdfabd5,student.farm,resell,49.98,,high,low,7,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,29/09/2026 03:37
 859ed2bd-405b-41dd-be05-7b2c798d6021,insist.farm,available,13.99,,high,low,6,name.com,,,
 02fcf6d4-f136-45f1-b335-b4e04eb896c9,diminuendo.farm,available,4.98,49.98,medium,low,10,namecheap,,,13/08/2026 22:19
 1d3fae5a-2ade-402e-a960-e147da581222,ado.farm,available,15.99,38.99,high,low,3,namesilo,,,17/09/2026 09:17
 c4969e7a-588e-4fe4-971c-65154a768aa2,activase.farm,available,4.98,49.98,medium,low,8,namecheap,,,17/09/2026 05:09
-1e309fac-4560-4f63-bda5-2117c0935896,allergist.farm,available,13.99,,medium,low,9,name.com,,,
+1e309fac-4560-4f63-bda5-2117c0935896,allergist.farm,available,4.34,31.25,medium,low,9,spaceship,,,28/09/2026 20:30
 3a31fb3d-0059-4660-8822-720dcc3225fc,champagne.farm,available,15.99,38.99,high,low,9,namesilo,,,23/09/2026 10:06
+13d3b6ed-44cf-4528-8913-2712fbc9e064,macrophages.farm,available,4.98,49.98,low,low,11,namecheap,,,28/09/2026 13:24
 1b89aa2c-6fe9-46cd-bebb-4de27b78fcab,treed.farm,available,4.98,49.98,medium,low,5,namecheap,,,07/08/2026 11:13
-02839c29-4627-4ccd-9b70-cc1e74a29413,wool.farm,resell,,,high,low,4,"GoDaddy.com, LLC",16/03/2021 07:43,16/03/2027 07:43,26/09/2026 10:13
+02839c29-4627-4ccd-9b70-cc1e74a29413,wool.farm,resell,,,high,low,4,"GoDaddy.com, LLC",16/03/2021 07:43,16/03/2027 07:43,28/09/2026 10:46
 7d568d6d-3e8b-42dd-a0f7-20770e35333e,quizzes.farm,available,15.99,38.99,medium,low,7,namesilo,,,18/09/2026 17:07
 5a4ec07e-c981-4e70-a63f-afc9fae3317f,psychological.farm,available,4.98,49.98,medium,low,13,namecheap,,,28/09/2026 04:31
 f74cebf8-c04d-42a4-a06d-8b309da1ec5e,watertight.farm,available,4.98,49.98,high,low,10,namecheap,,,11/08/2026 08:34
@@ -86,6 +92,7 @@ d33d5914-24c9-4b3f-bf25-657fca6096bc,unbroken.farm,available,4.98,49.98,high,low
 6b8530fe-fdce-446f-abcb-45938ae82181,clapping.farm,available,4.98,49.98,high,low,8,namecheap,,,19/09/2026 20:57
 f8e3b822-b02f-4cd1-a4f6-fabb227c66c2,disappear.farm,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 05:58
 973c8b87-d7ca-4bf2-a325-1b0bcf2d0a7a,charitable.farm,available,4.98,49.98,high,low,10,namecheap,,,12/08/2026 02:34
+1071d18b-efd8-4306-9df3-060c45d02ee8,stowe.farm,available,7.72,31.41,medium,low,5,porkbun,,,28/09/2026 14:23
 22f130b3-7af1-40b2-b96b-19eb0c4c451c,abls.farm,available,15.99,38.99,medium,low,4,namesilo,,,16/09/2026 16:13
 2ea8a015-01cc-4c23-b036-5073d7d2a5c4,mash.farm,available,13.99,,high,low,4,name.com,,,
 e1a716d5-f79c-475d-8e70-47c466d81f6f,aquatint.farm,available,15.99,38.99,medium,low,8,namesilo,,,19/09/2026 23:09
@@ -117,6 +124,7 @@ d98e28cf-12c5-45aa-8dd1-f9ff07eef767,birken.farm,available,4.98,49.98,medium,low
 d8a1109d-4d98-4e73-9138-16f756c5e529,bestseller.farm,available,15.99,38.99,high,low,10,namesilo,,,23/09/2026 10:31
 1e3da1f3-fc56-4e4b-8b80-56595685d5ab,volkswagen.farm,available,13.99,,high,low,10,name.com,,,
 70796d07-85aa-4a6e-b9c2-475453723cb1,congruous.farm,available,4.98,49.98,medium,low,9,namecheap,,,12/08/2026 21:56
+e5534e67-eee5-437d-991a-cf7a89f2a276,antonia.farm,available,15.99,38.99,medium,low,7,namesilo,,,28/09/2026 16:29
 ce26c335-aeb7-4e2f-9b0c-219e9bceb470,ungentle.farm,available,4.98,49.98,medium,low,8,namecheap,,,12/09/2026 11:11
 c597b6e3-7251-40be-8945-866f9d572bcc,democrat.farm,available,13.99,,high,low,8,name.com,,,
 f20552a6-188b-421d-bcad-f19c8811b071,rile.farm,available,13.99,,medium,low,4,name.com,,,
@@ -138,6 +146,7 @@ f74e6938-f702-46d9-983f-acfeec2bf6d7,drums.farm,available,15.99,38.99,medium,low
 15ad3599-658a-4516-9d70-69d62063113c,estado.farm,available,13.99,,high,low,6,name.com,,,
 780ea37b-f91e-42a2-acb2-acce159d328f,haphazard.farm,available,4.98,49.98,medium,low,9,namecheap,,,20/08/2026 23:46
 592f2cb7-3cc3-4253-a586-f7870d5ad7bc,omani.farm,available,4.98,49.98,high,low,5,namecheap,,,04/09/2026 02:24
+fb9c04ee-e2fb-44c1-8896-5724921caf76,elector.farm,available,30.2,30.2,medium,low,7,cloudflare,,,28/09/2026 19:03
 bc745e46-545c-44cb-a39f-07bae5a279bb,applecart.farm,available,4.98,49.98,medium,low,9,namecheap,,,19/09/2026 21:32
 c1c832d8-38c9-4944-83b9-01cb15ff0642,nicky.farm,available,13.99,,high,low,5,name.com,,,
 c5188816-3f14-4d20-aab9-47da397fe916,alerting.farm,available,15.99,38.99,high,low,8,namesilo,,,18/09/2026 05:27
@@ -145,19 +154,23 @@ b9d9429c-0fa4-4552-a0d5-f09425ed08e4,tuscan.farm,available,4.98,49.98,high,low,6
 d4942d3c-e543-4617-8845-c5a3d2732655,logically.farm,available,4.98,49.98,high,low,9,namecheap,,,15/09/2026 12:41
 bd113a7f-55ce-4c59-b513-ec9d288c7bfd,climbable.farm,available,4.98,49.98,medium,low,9,namecheap,,,07/08/2026 00:10
 892881e5-dae6-4a7a-8b60-362e970aa66a,youthful.farm,available,4.98,49.98,high,low,8,namecheap,,,13/09/2026 04:18
+d27de28c-31fe-4727-a154-1c47ba405766,debra.farm,available,7.71,32.21,medium,low,5,dynadot,,,28/09/2026 16:29
 dac1fdec-4356-43c4-8b7d-fa843de2cca6,attempts.farm,available,15.99,38.99,medium,low,8,namesilo,,,18/09/2026 16:41
 e41058e5-076b-4c32-a4a4-034d97139d78,satisfaction.farm,available,4.98,49.98,high,low,12,namecheap,,,28/09/2026 04:23
+65e94fac-b5d9-425a-a505-02dbb60979f6,intuition.farm,available,30.2,30.2,high,low,9,cloudflare,,,28/09/2026 19:28
 d0b0a05b-5f53-4748-9cc8-069e1577c750,gnomish.farm,available,4.98,49.98,medium,low,7,namecheap,,,20/08/2026 15:45
 f1bf398d-f601-49e1-abc8-c3a5591d0392,dorm.farm,available,13.99,50.99,high,low,4,name.com,,,24/09/2026 23:35
+83ab6fd9-c156-4820-bf14-a583024be067,marjorie.farm,available,4.98,49.98,medium,low,8,namecheap,,,29/09/2026 04:00
+255a0ef2-df9b-401c-b379-c05336d32c2d,dealers.farm,available,4.34,31.25,medium,low,7,spaceship,,,28/09/2026 09:08
 1ee6d47e-6107-4cfb-a3e0-b76eaa960efd,frankish.farm,available,4.98,49.98,medium,low,8,namecheap,,,18/08/2026 14:14
 8fc67cec-0064-439e-a0b4-755c03a3391a,amazona.farm,available,15.99,38.99,medium,low,7,namesilo,,,18/09/2026 16:23
 d1cf924a-4190-4a5c-86c8-508601447833,tempered.farm,available,4.98,49.98,high,low,8,namecheap,,,11/09/2026 10:50
 29a2bbb2-b227-449c-a8ed-1687f18a33cb,horsefish.farm,available,4.98,49.98,medium,low,9,namecheap,,,20/09/2026 21:39
 0575dba9-4d2c-41ec-823e-f1372b40797d,jeremiah.farm,available,15.99,38.99,high,low,8,namesilo,,,24/09/2026 06:54
-e5dfc0bc-5b15-435a-b884-9e6f58b43708,varied.farm,available,13.99,,high,low,6,name.com,,,
+e5dfc0bc-5b15-435a-b884-9e6f58b43708,varied.farm,available,15.99,38.99,medium,low,6,namesilo,,,28/09/2026 10:09
 4a1e1d0d-9a86-49dc-8295-a177bd6f877c,invisibly.farm,available,4.98,49.98,medium,low,9,namecheap,,,15/09/2026 09:10
 8a9d3fe2-c4d9-44d1-981b-bc862c7026dd,provide.farm,available,13.99,,high,low,7,name.com,,,
-37cfd700-f4a0-4e7a-929e-372530315bf3,maxim.farm,available,13.99,,high,low,5,name.com,,,
+37cfd700-f4a0-4e7a-929e-372530315bf3,maxim.farm,available,15.99,38.99,high,low,5,namesilo,,,28/09/2026 23:52
 2a4ac6d9-dfee-4ef6-8455-4fcdeb654da3,stocky.farm,available,4.98,49.98,medium,low,6,namecheap,,,21/08/2026 05:33
 6cdf4b28-3780-4064-8071-67183eab5064,vaporized.farm,available,4.98,49.98,medium,low,9,namecheap,,,18/08/2026 20:28
 ee4a24ce-9b3d-467c-b1ef-83053986a3e4,mystify.farm,available,4.98,49.98,high,low,7,namecheap,,,21/09/2026 17:29
@@ -165,7 +178,9 @@ ee4a24ce-9b3d-467c-b1ef-83053986a3e4,mystify.farm,available,4.98,49.98,high,low,
 aae1f08f-36bf-4bef-8774-41e4aade3b95,tellurium.farm,available,15.99,38.99,medium,low,9,namesilo,,,20/09/2026 23:13
 4d4a5814-0f0b-40f2-83c8-1081dfb0d7b1,biff.farm,available,15.99,38.99,medium,low,4,namesilo,,,23/09/2026 13:51
 b8550ed6-f0f5-4202-a182-8742999e6717,mugwump.farm,available,4.98,49.98,medium,low,7,namecheap,,,22/08/2026 02:43
+feb4beb9-35d1-4bfa-9198-b1ace36a72af,prospect.farm,resell,,,high,low,8,,,,28/09/2026 14:06
 b7946ce0-854a-4755-b113-0b4b86dcc01d,alimentary.farm,available,4.98,49.98,medium,low,10,namecheap,,,
+77b18d76-3771-42da-92fd-96862b0b3f5b,harbour.farm,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 01:13
 ca5d21bc-d707-442f-ae57-fb20705c0ef9,augean.farm,available,4.98,49.98,medium,low,6,namecheap,,,07/08/2026 16:54
 063941d6-130f-4496-8c8a-8e85d3cc0945,throttle.farm,available,15.99,38.99,high,low,8,namesilo,,,16/09/2026 21:47
 bf163883-2119-4524-b519-2d766925b27f,lie.farm,available,13.99,,high,low,3,name.com,,,
@@ -177,9 +192,12 @@ d3b1f5b1-3f0d-4ba7-b65b-0a98f2818e93,intune.farm,available,15.99,38.99,high,low,
 5d9a2af1-f5c9-4e8f-890b-c471f79aeb2b,inflamed.farm,available,4.98,49.98,medium,low,8,namecheap,,,22/08/2026 04:27
 943b135b-349f-440b-b74e-6fa5e015683e,unpleasant.farm,available,4.98,49.98,medium,low,10,namecheap,,,12/09/2026 16:58
 42189c86-29d0-474d-8ce7-21d795c6fc0c,connect.farm,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/11/2022 09:54,29/11/2026 09:54,28/09/2026 07:46
+e0aa7813-1118-41ac-b5f3-37a97453412c,salamanca.farm,available,7.71,32.21,medium,low,9,dynadot,,,28/09/2026 16:27
+98aa731c-d500-43d5-ac34-7bab3c8a456c,clermont.farm,available,15.99,38.99,medium,low,8,namesilo,,,28/09/2026 22:20
 6fe34690-e0bf-4506-a63f-cf210521788d,tameable.farm,available,4.98,49.98,medium,low,8,namecheap,,,11/09/2026 07:38
 e26d061d-b5e4-4f60-9389-85bdf7e5ed0e,hindu.farm,available,4.98,49.98,high,low,5,namecheap,,,21/08/2026 09:30
 6fd51103-47c1-41db-b664-3e837f111867,marathon.farm,available,15.99,38.99,high,low,8,namesilo,,,22/09/2026 15:29
+b738944f-d276-4684-a9c9-04139a86ce55,boulevard.farm,available,7.71,32.21,medium,low,9,dynadot,,,28/09/2026 18:27
 7eebe41c-680f-4f2d-aba7-d75eb14897ec,freehand.farm,available,4.98,49.98,high,low,8,namecheap,,,18/08/2026 14:55
 63440c5a-f6c2-4f57-9ac4-683c1a1b5b1a,alluvion.farm,available,15.99,38.99,medium,low,8,namesilo,,,18/09/2026 12:21
 7acad164-480a-4558-ae5a-f330df8776d1,czechoslovak.farm,available,15.99,38.99,medium,low,12,namesilo,,,26/09/2026 03:18
@@ -189,6 +207,7 @@ ea6f8729-656e-484a-bb3f-5616df86f758,asceticism.farm,available,15.99,38.99,mediu
 6f8c14df-08ff-47d1-a84a-ca12531027db,talkative.farm,available,4.98,49.98,high,low,9,namecheap,,,09/08/2026 21:05
 71643052-1c45-491e-98cd-451a25ab95b8,flaky.farm,available,4.98,49.98,high,low,5,namecheap,,,10/08/2026 10:06
 8f4d2b82-9749-4f24-8ed7-2b0e83f3891a,momently.farm,available,4.98,49.98,medium,low,8,namecheap,,,15/09/2026 15:21
+82983f62-e532-4c39-bc97-bbae9989d93f,detained.farm,available,4.34,31.25,low,low,8,spaceship,,,29/09/2026 05:25
 fb1f7c72-fcf9-4d87-a0a4-3628384363f2,unsullied.farm,available,4.98,49.98,high,low,9,namecheap,,,10/09/2026 18:19
 99dd0053-0919-4eb4-abb6-3a0f2c65a6a7,intragroup.farm,available,4.98,49.98,medium,low,10,namecheap,,,22/08/2026 08:41
 203f1ef7-c178-43be-ba2a-249f9f33ff0f,honegger.farm,available,15.99,38.99,high,low,8,namesilo,,,20/09/2026 10:55
@@ -248,6 +267,7 @@ a66d6301-6f33-4d03-934a-5921f631dd5b,vanished.farm,available,4.98,49.98,medium,l
 9c7915aa-914c-4443-bb0c-bb370768a674,dust.farm,available,4.98,49.98,high,low,4,namecheap,,,24/09/2026 21:05
 577eceb4-169c-47b7-abda-984354d69029,autarkic.farm,available,4.98,49.98,medium,low,8,namecheap,,,07/08/2026 18:47
 b888553e-be20-42dd-94f7-bb3fe7efa036,zealot.farm,available,4.98,49.98,medium,low,6,namecheap,,,08/09/2026 02:10
+62461a74-a588-489e-a4ac-086668a33532,helicopters.farm,available,4.34,31.25,low,low,11,spaceship,,,28/09/2026 18:00
 1fa61f29-b6cd-4506-b7f5-90320e6973e5,dogtooth.farm,available,4.98,49.98,medium,low,8,namecheap,,,11/08/2026 17:01
 e8ff8fee-3184-448b-90ad-f041739ed530,beignet.farm,available,15.99,38.99,medium,low,7,namesilo,,,23/09/2026 04:07
 fddf35a1-460d-40f9-a334-e6ffc31fbdd5,annotator.farm,available,15.99,38.99,medium,low,9,namesilo,,,19/09/2026 10:48
@@ -255,7 +275,7 @@ fddf35a1-460d-40f9-a334-e6ffc31fbdd5,annotator.farm,available,15.99,38.99,medium
 a2feb166-8eda-4708-a184-ee0b08f16a0e,beaches.farm,available,4.98,49.98,high,low,7,namecheap,,,20/09/2026 07:25
 ff896a8b-65b1-4bee-84d2-2b97b45730dc,surd.farm,available,4.98,49.98,medium,low,4,namecheap,,,11/09/2026 03:41
 e27cf868-6844-4bdd-9cf5-8852a8666d42,jammed.farm,available,4.98,49.98,medium,low,6,namecheap,,,22/08/2026 12:07
-ae9a3967-c61e-4b45-ac99-927e6ef427a2,motion.farm,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",22/02/2022 16:28,22/02/2027 16:28,26/09/2026 07:39
+ae9a3967-c61e-4b45-ac99-927e6ef427a2,motion.farm,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",22/02/2022 16:28,22/02/2027 16:28,28/09/2026 21:51
 d7c97f09-a373-4b2c-aafe-b44356bd30e2,hydraulic.farm,available,4.98,49.98,high,low,9,namecheap,,,21/08/2026 16:17
 577d4f51-6a3e-46eb-b0e3-9d09c920a4dd,scrimpy.farm,available,4.98,49.98,medium,low,7,namecheap,,,24/08/2026 18:10
 dc9f2243-4c0b-4c49-bafe-1d2f3bc6117b,complainer.farm,available,15.99,38.99,medium,low,10,namesilo,,,23/09/2026 06:45
@@ -279,7 +299,7 @@ c2e31cd8-262c-4656-a73e-608e42fcd035,extrovert.farm,available,4.98,49.98,high,lo
 7826679b-e811-4f46-a985-f2fd5ca107d0,flagrant.farm,available,4.98,49.98,medium,low,8,namecheap,,,15/08/2026 19:50
 828a5917-79dc-4268-b54f-a6413ec29f3b,asked.farm,available,13.99,,high,low,5,name.com,,,
 659036b0-5407-46dd-89ea-bbf10e6b97d0,weathered.farm,available,4.98,49.98,high,low,9,namecheap,,,13/09/2026 09:21
-0561c648-d6c9-40ed-a2d6-192035c7e9d9,workings.farm,available,13.99,,high,low,8,name.com,,,
+0561c648-d6c9-40ed-a2d6-192035c7e9d9,workings.farm,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 10:48
 00938864-1e50-46bc-bce8-2a0868e511dd,platinum.farm,resell,,,high,low,8,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,26/09/2026 08:12
 42cfea6d-d4d2-4b42-b3aa-b8e4bf523ccc,fourier.farm,available,4.98,49.98,medium,low,7,namecheap,,,22/09/2026 07:13
 0723042d-6e15-4760-a24a-a7dc9d742b84,unopened.farm,available,4.98,49.98,medium,low,8,namecheap,,,12/09/2026 16:14
@@ -289,7 +309,7 @@ c2e31cd8-262c-4656-a73e-608e42fcd035,extrovert.farm,available,4.98,49.98,high,lo
 126fc93e-43bb-4b51-9286-1679ce0e9203,allmouth.farm,available,15.99,38.99,medium,low,8,namesilo,,,18/09/2026 11:45
 084cfce7-ec1c-4baf-8602-4540967a9254,thatcher.farm,available,15.99,38.99,medium,low,8,namesilo,,,22/09/2026 07:26
 36c6ed10-f6e7-4b99-9063-6e0150c934e8,scam.farm,available,4.98,49.98,high,low,4,namecheap,,,14/09/2026 08:03
-3ca7628f-fd43-45ae-8398-7e5648e9eb9a,accusation.farm,available,13.99,,high,low,10,name.com,,,
+3ca7628f-fd43-45ae-8398-7e5648e9eb9a,accusation.farm,available,15,,medium,low,10,unstoppable,,,28/09/2026 17:30
 9c971248-3d0a-48d6-a7c4-81109113c077,imitator.farm,available,15.99,38.99,medium,low,8,namesilo,,,19/09/2026 16:27
 c001ead2-9e39-4ff1-abaa-26df878a25a5,ducky.farm,available,13.99,50.99,high,low,5,name.com,,,13/08/2026 18:23
 a25ca8fb-0184-4309-a684-07eaab461d03,watch.farm,resell,,,high,low,5,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,26/09/2026 10:04
@@ -299,10 +319,11 @@ a25ca8fb-0184-4309-a684-07eaab461d03,watch.farm,resell,,,high,low,5,"Spaceship, 
 6b9adcb8-640c-415a-a0fc-529ef1aafff3,courageous.farm,available,15.99,38.99,high,low,10,namesilo,,,23/09/2026 02:25
 0497ff3d-1eb0-485f-9452-9967f10d69a2,dentist.farm,available,13.99,,high,low,7,name.com,,,
 8c203684-8f1e-42bb-a47f-2f3fcc81a391,snowed.farm,available,15.99,38.99,medium,low,6,namesilo,,,20/09/2026 16:23
+e3d772cb-b222-46a7-abc7-9b235fb1cf7a,macpherson.farm,available,4.34,31.25,medium,low,10,spaceship,,,28/09/2026 22:18
 6e7b3880-33df-49f5-8eeb-cfdb4b9f1b4a,intersection.farm,available,13.99,,high,low,12,name.com,,,
 362c7c9c-2e7f-4731-9e6b-5ead0486aecb,catenulate.farm,available,4.98,49.98,medium,low,10,namecheap,,,11/08/2026 21:32
 8e011a0f-22e9-47cb-89cb-9241ebdbfd8f,shrink.farm,available,8.99,59.99,high,low,6,godaddy,,,28/09/2026 01:56
-b543ba0b-01d5-4729-b961-a676d843c8fa,solutions.farm,premium,128.7,128.7,high,low,9,namecheap,,,25/09/2026 17:56
+b543ba0b-01d5-4729-b961-a676d843c8fa,solutions.farm,premium,99.5,128.7,high,low,9,unstoppable,,,28/09/2026 10:35
 44c4baf7-1485-42a6-a07b-4e2318f83f55,inwards.farm,available,4.98,49.98,high,low,7,namecheap,,,21/08/2026 23:32
 03bb2130-32ee-4772-bba1-dea2566f96b2,locomote.farm,available,4.98,49.98,medium,low,8,namecheap,,,20/08/2026 15:49
 a07f7281-b915-4b0a-9648-5d094725daf9,retractile.farm,available,4.98,49.98,medium,low,10,namecheap,,,09/09/2026 15:42
@@ -338,7 +359,7 @@ aba58f63-0a56-4313-b51a-0348bbef1881,bumpy.farm,available,4.98,49.98,medium,low,
 f7290c49-11a7-409a-a047-0aed0373ef3a,milanese.farm,available,4.98,49.98,medium,low,8,namecheap,,,24/08/2026 22:53
 5a36999e-789e-48e4-beb8-60607ab64f15,lxxxii.farm,available,4.98,49.98,medium,low,6,namecheap,,,
 db7fe764-af67-46ba-b0c2-b905ecec788f,misguided.farm,available,4.98,49.98,medium,low,9,namecheap,,,21/08/2026 18:57
-96c25444-298f-4a66-939a-e5e137b617ae,affluence.farm,available,13.99,,high,low,9,name.com,,,
+96c25444-298f-4a66-939a-e5e137b617ae,affluence.farm,available,4.34,31.25,high,low,9,spaceship,,,28/09/2026 19:21
 4cc34f3f-7592-4a84-9bae-a7b18ce63a50,appreciated.farm,available,15.99,38.99,high,low,11,namesilo,,,28/09/2026 07:22
 5d223c21-c152-4425-ab14-1a7a59717c7f,balderdash.farm,available,4.98,49.98,medium,low,10,namecheap,,,21/09/2026 21:39
 da9f85e5-bb51-4231-95a8-c34fabc5e6a9,finback.farm,available,15.99,38.99,medium,low,7,namesilo,,,21/09/2026 20:44
@@ -356,10 +377,11 @@ e10d144b-fd1e-4f19-a65e-6ea8554d631f,maxwell.farm,available,7.72,31.41,high,low,
 4d1640a3-9ee1-4e1c-8994-6be308723f0d,rimed.farm,available,4.98,49.98,medium,low,5,namecheap,,,09/09/2026 17:39
 b338cf8d-f903-4347-a1b8-953ec92dff7f,wrestling.farm,available,13.99,,high,low,9,name.com,,,
 f12f1c2f-dfde-4b61-84fd-0021948e29e9,hugely.farm,available,4.98,49.98,medium,low,6,namecheap,,,14/09/2026 15:49
+50dd4fdf-cb77-4fc6-8ec6-319cd3cb8263,clovis.farm,premium,38.94,38.94,medium,low,6,namesilo,,,29/09/2026 00:26
 36d7a25a-e22f-4900-a2ab-fdbea677b203,cements.farm,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 09:07
 24f6d815-c40e-4e87-b5b8-2e83e484ff9e,meshugga.farm,available,4.98,49.98,low,low,8,namecheap,,,24/08/2026 21:04
 ec8be11d-14c5-483f-ba23-51abfb4134f4,funfair.farm,available,15.99,38.99,high,low,7,namesilo,,,24/09/2026 16:14
-140ced51-aa36-46f3-b728-848f022d9afb,attraction.farm,available,13.99,,high,low,10,name.com,,,
+140ced51-aa36-46f3-b728-848f022d9afb,attraction.farm,available,15,,high,low,10,unstoppable,,,28/09/2026 23:11
 cfac03ae-a7b4-48e7-b951-4712adb7864e,satire.farm,available,15.99,38.99,high,low,6,namesilo,,,24/09/2026 13:17
 51b52623-2eda-4bde-abed-a4c756c84fbe,walpole.farm,available,8.99,59.99,medium,low,7,godaddy,,,28/09/2026 01:54
 4c636397-765b-4dfb-b76d-b46ae10077b7,ivory.farm,available,4.98,49.98,high,low,5,namecheap,,,04/09/2026 01:20
@@ -379,9 +401,11 @@ caaeb9e1-4e64-48cb-955f-dcbb9dc5e44f,shockingly.farm,available,4.98,49.98,medium
 7843d51f-4feb-43eb-85db-83d64b4e3b96,bonn.farm,available,15.99,38.99,high,low,4,namesilo,,,25/09/2026 01:56
 24fbbecd-6c81-4da0-b984-aaa2bfcca83d,languages.farm,available,4.98,49.98,medium,low,9,namecheap,,,
 03dd1d48-2c4f-4aa3-8912-9b1bd7984525,athenaeum.farm,available,4.98,49.98,high,low,9,namecheap,,,20/09/2026 20:40
+d4772a9e-9c1a-4313-86e7-ee550cd37569,cruising.farm,available,7.72,31.41,high,low,8,porkbun,,,29/09/2026 05:15
 9455d105-3dce-413d-a4cb-554138a5f93f,confetti.farm,available,13.99,,high,low,8,name.com,,,
 f47af817-099c-4f19-8d13-858bd2247719,bahamian.farm,available,4.98,49.98,medium,low,8,namecheap,,,08/08/2026 08:31
 7ed3656f-31df-489b-8005-96e4ea259957,awed.farm,available,4.98,49.98,medium,low,4,namecheap,,,08/08/2026 00:44
+47545027-6cb6-4eba-96eb-baee2640ff1e,plo.farm,available,4.34,31.25,medium,low,3,spaceship,,,28/09/2026 10:40
 cb04902b-1e3b-49c5-a497-066d725244e8,unbiased.farm,available,4.98,49.98,high,low,8,namecheap,,,12/09/2026 01:52
 0c1533f8-eda9-484b-875c-d54347b95855,neuromotor.farm,available,4.98,49.98,medium,low,10,namecheap,,,03/09/2026 16:18
 ab46d59a-c588-46b1-afb2-d9b07831a099,paparazzi.farm,available,15.99,38.99,high,low,9,namesilo,,,16/09/2026 14:02
@@ -399,6 +423,11 @@ e0123b15-0a9e-4592-bf1c-b9e45c382a4f,serbian.farm,available,4.98,49.98,high,low,
 50e3cf99-3880-49e6-9633-dca2a65b9dda,oengus.farm,available,4.98,49.98,medium,low,6,namecheap,,,17/09/2026 12:31
 30e3e576-e275-45d1-969b-399cc55ea737,hopes.farm,available,4.98,49.98,medium,low,5,namecheap,,,25/09/2026 19:44
 794cd792-f2d9-4443-a45f-d61d9fc87c46,ancestral.farm,available,4.98,49.98,high,low,9,namecheap,,,
+672bfd94-3b83-42a7-b63b-02026dfdb668,tab.farm,premium,38.94,38.94,high,low,3,namesilo,,,28/09/2026 10:59
+c36d8600-70d5-4572-b7c5-a4a3786f352a,suggests.farm,available,4.98,49.98,medium,low,8,namecheap,,,28/09/2026 08:53
+558bbee5-b6ec-457a-b4d2-64b019097b42,depths.farm,available,4.34,31.25,medium,low,6,spaceship,,,28/09/2026 23:11
+05e20f8f-d1e9-4e12-8928-330f5f027db2,sewer.farm,available,4.34,31.25,high,low,5,spaceship,,,28/09/2026 15:19
+f22a9dae-a791-4de3-8345-09d9f8ec4fad,architecture.farm,resell,,,high,low,12,,,,28/09/2026 17:04
 70c195d6-8e7a-4481-9618-adc158bcc4c6,lunch.farm,available,15.99,38.99,high,low,5,namesilo,,,25/09/2026 11:46
 3d497e85-0019-4214-8f56-fd710a488692,vagabond.farm,available,4.98,49.98,high,low,8,namecheap,,,14/08/2026 19:16
 c46f77c4-81c4-4c71-a9ae-7e0b742af13d,sunstruck.farm,available,4.98,49.98,medium,low,9,namecheap,,,11/09/2026 02:01
@@ -414,9 +443,11 @@ f9720af9-dae5-41b1-9fd2-9d9cdd7e2e4c,overfond.farm,available,4.98,49.98,medium,l
 085a8cfb-2afb-42c2-9844-de37039dcb5a,arithmancy.farm,available,15.99,38.99,medium,low,10,namesilo,,,20/09/2026 06:00
 7cae6334-6e1a-4200-96f6-27ed35d21590,moneyless.farm,available,4.98,49.98,medium,low,9,namecheap,,,25/08/2026 04:43
 aa15e8ce-ab5b-47f9-b556-ef16d67f5c65,codified.farm,available,4.98,49.98,medium,low,8,namecheap,,,12/08/2026 15:19
-c045a58d-9786-48bb-a07a-441695cbfa6b,uproar.farm,available,13.99,,high,low,6,name.com,,,
+c045a58d-9786-48bb-a07a-441695cbfa6b,uproar.farm,available,15.99,38.99,medium,low,6,namesilo,,,29/09/2026 04:35
+6bad63d8-f138-4de4-8c61-f0053b88cedd,congratulate.farm,available,4.34,31.25,high,low,12,spaceship,,,29/09/2026 03:02
 f7f8b88f-50ae-45d2-9020-9bacb6694cd4,gunner.farm,available,15.99,38.99,high,low,6,namesilo,,,20/09/2026 11:48
 4c92eb6c-16fe-49d6-b160-6f82b8b8bafa,witting.farm,available,4.98,49.98,medium,low,7,namecheap,,,12/08/2026 22:24
+d2efda0d-ff73-4a77-8cb2-9b01391b3aba,tends.farm,available,15.99,38.99,medium,low,5,namesilo,,,29/09/2026 04:58
 21498f7a-1b10-4093-87d2-328b6923fcda,oviparous.farm,available,4.98,49.98,medium,low,9,namecheap,,,04/09/2026 22:09
 47eb020c-f466-45e2-a9d2-0103aa521ee2,impostor.farm,available,4.98,49.98,medium,low,8,namecheap,,,09/09/2026 04:59
 10c930f2-96a5-48b8-b449-89d18e146ee0,adrenal.farm,available,4.98,49.98,high,low,7,namecheap,,,
@@ -425,9 +456,10 @@ e0b2d087-54d1-4f03-a761-6f9ef98de5ee,doula.farm,available,4.98,49.98,high,low,5,
 d9db2c59-9643-4595-8c60-20f04437b986,owner.farm,available,15.99,38.99,high,low,5,namesilo,,,25/09/2026 09:45
 7b507be8-46f9-4cd9-bf38-31bedceb8da2,dull.farm,available,15.99,38.99,medium,low,4,namesilo,,,23/09/2026 00:25
 1709192a-55cf-4f7b-b6be-758d6c1db59d,played.farm,available,15.99,38.99,high,low,6,namesilo,,,27/09/2026 04:03
+7c84050a-2cb0-4ba5-9ede-dafa6d71cd15,splash.farm,resell,,,high,medium,6,,,,28/09/2026 10:43
 077b5e5f-6adf-4557-a46e-cce43693652d,caprice.farm,available,4.98,49.98,high,low,7,namecheap,,,24/09/2026 12:38
 7534f660-20f1-4e75-a540-05b3c2ceb01d,amaretto.farm,available,15.99,38.99,high,low,8,namesilo,,,18/09/2026 15:58
-00b5dd56-6ffd-49db-89e8-e23d3c1177f2,beads.farm,available,13.99,,high,low,5,name.com,,,
+00b5dd56-6ffd-49db-89e8-e23d3c1177f2,beads.farm,available,15,,high,low,5,unstoppable,,,29/09/2026 01:39
 bed30ab6-3d11-4ddb-b92d-e085ec34d5a1,oceangoing.farm,available,4.98,49.98,medium,low,10,namecheap,,,04/09/2026 00:20
 a0154112-dc2b-476d-851a-c6d5b4c12fff,eudaemonia.farm,available,4.98,49.98,high,low,10,namecheap,,,12/09/2026 22:59
 5ac7f3fb-7de4-4dba-94d2-5b72f45f1067,drag.farm,available,15.99,38.99,high,low,4,namesilo,,,25/09/2026 22:05
@@ -453,9 +485,12 @@ bec5d0b5-1013-4771-90bf-f2a507de7b50,eyesight.farm,available,13.99,,high,low,9,n
 389ef7dc-5224-427f-ba38-82f382478ab1,ceiling.farm,available,4.98,49.98,high,low,7,namecheap,,,24/09/2026 13:23
 693933f0-2073-4936-9694-a3352fd71fb1,hollywood.farm,premium,118.8,118.8,high,low,9,namesilo,,,21/08/2026 10:34
 a2f2479a-f7b1-44c3-9fbd-1ed57ba4c5a1,beagle.farm,available,4.98,49.98,high,low,6,namecheap,,,22/09/2026 19:37
+14f26298-3220-46b4-920f-f3f11edf62b8,brewery.farm,available,4.34,31.25,high,low,7,spaceship,,,28/09/2026 18:30
 12e51a0a-cb0f-4045-b1ef-9206aa6d4511,adder.farm,available,4.98,49.98,medium,low,5,namecheap,,,17/09/2026 06:46
 eabf5094-089b-4edd-9a3e-e43f7a63c0bd,propranolol.farm,available,15.99,38.99,medium,low,11,namesilo,,,20/09/2026 00:29
 3dfa714a-8606-4218-b83c-9ba4682c61f1,anser.farm,available,15.99,38.99,medium,low,5,namesilo,,,19/09/2026 12:03
+2e7d0237-2369-4db0-8272-6f1e53a6eb30,tunes.farm,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 18:03
+36ebea87-f6a7-4bcf-9ebd-c8434488e75a,doe.farm,available,15.99,38.99,high,low,3,namesilo,,,29/09/2026 00:39
 4d4e1788-f437-470c-b239-0bc969a84a4b,eponymous.farm,available,4.98,49.98,high,low,9,namecheap,,,17/08/2026 11:29
 151c21ea-ffbb-4ba8-ae41-0c6321491d1d,inconsistent.farm,available,13.99,,medium,low,12,name.com,,,
 ed9bb87f-0e0c-4420-926f-f342a1282865,sousaphone.farm,available,4.98,49.98,medium,low,10,namecheap,,,22/09/2026 11:51
@@ -466,7 +501,6 @@ a07b12d5-63bc-4192-9cbd-7407aaaa6d48,sewed.farm,available,4.98,49.98,medium,low,
 a3d09b7d-b121-4adf-8ff4-9a6cc9414910,netlike.farm,available,4.98,49.98,medium,low,7,namecheap,,,03/09/2026 16:00
 e53a6822-f1a7-418e-a0a1-433f922bb1b2,highbrow.farm,available,4.98,49.98,medium,low,8,namecheap,,,21/08/2026 09:09
 de8c5182-b77c-44ae-9ace-3f03f8c0cb86,atenolol.farm,available,4.98,49.98,medium,low,8,namecheap,,,20/09/2026 20:09
-d111126d-b34c-44dc-a38b-0e93ffea26e1,brush.farm,available,,,high,low,5,,,,
 6d304cb6-5da0-4292-83ae-725a57b03b01,allis.farm,available,15.99,38.99,medium,low,5,namesilo,,,18/09/2026 11:06
 77230893-03d2-41bb-adb6-95411d87c12d,strickland.farm,available,15,,medium,low,10,unstoppable,,,28/09/2026 06:47
 ee8494a4-06d5-4868-8710-dfdedd68c53a,dye.farm,available,13.99,,high,low,3,name.com,,,
@@ -477,7 +511,7 @@ b1cf45ab-0cbf-4867-8a8e-270746c6fc3d,erosive.farm,available,4.98,49.98,medium,lo
 eca74bdc-ccc4-4709-8923-f77b873223ea,esthete.farm,available,15.99,38.99,medium,low,7,namesilo,,,17/09/2026 13:35
 8d19106f-1ddc-4ee6-81b1-e01040879720,toothsome.farm,available,4.98,49.98,medium,low,9,namecheap,,,14/08/2026 00:24
 ba937741-565d-436b-bc01-230bf63d1a40,aniline.farm,available,15.99,38.99,high,low,7,namesilo,,,18/09/2026 21:45
-2719cab7-e8fd-4230-a9be-9785621630a8,scientist.farm,available,15.99,38.99,high,low,9,namesilo,,,25/09/2026 04:30
+2719cab7-e8fd-4230-a9be-9785621630a8,scientist.farm,available,15,38.99,high,low,9,unstoppable,,,28/09/2026 12:32
 2808d266-3e04-46aa-b422-029861ffeab7,olsen.farm,available,15.99,38.99,high,low,5,namesilo,,,25/09/2026 12:35
 4aee4913-4845-4a72-8fa1-865ba0d7c2c2,exhaust.farm,available,13.99,,high,low,7,name.com,,,
 010e380d-3498-443d-aec7-52c9a0607511,accepted.farm,available,15.99,38.99,high,low,8,namesilo,,,21/09/2026 15:25
@@ -485,12 +519,15 @@ c0b236b7-a4cc-40d7-a8ee-f72fa55b2f83,yank.farm,available,4.98,49.98,high,low,4,n
 b323de5d-782b-44bf-a0da-58f61bbe73be,ashram.farm,available,15.99,38.99,medium,low,6,namesilo,,,20/09/2026 13:58
 b39345ba-e49a-47c2-aaad-50ecec5f6227,filial.farm,available,4.98,49.98,medium,low,6,namecheap,,,18/08/2026 04:17
 5894f0d5-c5fb-4f47-b3da-23028f58d162,curvey.farm,available,4.98,49.98,medium,low,6,namecheap,,,13/08/2026 11:51
+412f4fd8-76d7-4dbe-aad4-f9db206fd147,pcb.farm,available,30.2,30.2,high,low,3,cloudflare,,,28/09/2026 17:13
+cc0085d7-2beb-4b68-9f0f-e721a94b918c,economics.farm,available,30.2,30.2,high,low,9,cloudflare,,,28/09/2026 19:02
 9b3bb10f-0165-4345-88ba-10c84dd6abbd,cinnamon.farm,available,13.99,,high,low,8,name.com,,,
 7f052d28-14ae-4c13-9641-25cd6100809e,jerking.farm,available,4.98,49.98,medium,low,7,namecheap,,,06/08/2026 21:58
 9a67e838-b9d2-47cb-8025-5a21c2baee14,atkins.farm,available,15.99,38.99,high,low,6,namesilo,,,25/09/2026 17:28
 0f83c04b-e967-404c-8434-343f31c6b96a,designs.farm,available,15,38.99,high,low,7,unstoppable,,,28/09/2026 04:06
 cd981272-e25a-4f66-bfc7-7cd751b7f5dd,numinous.farm,available,4.98,49.98,medium,low,8,namecheap,,,03/09/2026 23:01
 d20d211b-800e-47f1-99ae-6eadb3acb408,eternity.farm,available,4.34,31.25,high,low,8,spaceship,,,28/09/2026 01:51
+b8ccc258-7b0f-4d3e-863f-9336341dc3b1,quantum.farm,resell,,,high,medium,7,,,,28/09/2026 15:10
 4b2bb757-46f6-4065-a2e0-0135aa657232,pianos.farm,available,15.99,38.99,medium,low,6,namesilo,,,20/09/2026 09:12
 185c7f94-0bd6-4cf4-8c1a-748efe6e19e5,filled.farm,available,4.98,49.98,high,low,6,namecheap,,,24/09/2026 18:13
 c7bbe509-5bdc-4d85-9902-4dd7743362c2,northampton.farm,premium,128.7,128.7,medium,low,11,namecheap,,,25/09/2026 14:57
@@ -501,7 +538,8 @@ a078f035-1a89-4801-8d8d-b86ec45a0283,drill.farm,available,15.99,38.99,high,low,5
 0d8375b1-f17c-42dd-932d-a1b99073f4c5,herrera.farm,available,15,,medium,low,7,unstoppable,,,28/09/2026 04:13
 b01c7080-479e-4bed-8a65-37641bc6bc34,ordinate.farm,available,4.98,49.98,high,low,8,namecheap,,,12/08/2026 22:29
 2ccaf7ab-66c9-4e92-bcb1-e990fa6ed971,valueless.farm,available,4.98,49.98,medium,low,9,namecheap,,,13/09/2026 01:01
-33b1a65a-a953-444c-999c-5daea7f6e3be,valued.farm,available,13.99,,high,low,6,name.com,,,
+33b1a65a-a953-444c-999c-5daea7f6e3be,valued.farm,available,4.34,31.25,high,low,6,spaceship,,,28/09/2026 10:07
+f27a8a03-9688-45ac-a0e1-903ca2bb8a7c,apes.farm,available,15.99,38.99,medium,low,4,namesilo,,,29/09/2026 04:59
 39cd6074-c7d7-496f-b642-6cda91b0e8e5,protecting.farm,available,15.99,38.99,high,low,10,namesilo,,,27/09/2026 02:52
 cd767e56-b771-4a2c-9af5-25b26fa6bd68,dainty.farm,available,13.99,50.99,high,low,6,name.com,,,13/08/2026 15:40
 33637e96-def5-4201-8f19-777c272135f0,wages.farm,available,13.99,,high,low,5,name.com,,,
@@ -516,6 +554,7 @@ cf11135c-aa77-41df-a476-5d47461e3e35,shooter.farm,available,4.98,49.98,medium,lo
 0a21a831-7dba-4328-aab5-14af9206dd21,wieldy.farm,available,4.98,49.98,medium,low,6,namecheap,,,13/09/2026 11:52
 479fa0eb-54f6-44dd-ab0d-4dc3fc740337,assay.farm,available,15.99,38.99,high,low,5,namesilo,,,20/09/2026 15:54
 562aabd4-2a21-4b5d-88d2-896904b24a19,smoggy.farm,available,4.98,49.98,medium,low,6,namecheap,,,10/09/2026 11:52
+feb5a4b5-105a-42b8-8222-ce4a57ba51ba,assassination.farm,available,4.34,31.25,medium,low,13,spaceship,,,28/09/2026 11:16
 93da6bdf-c4aa-4bbc-a85b-95e9e1974e83,papal.farm,available,4.98,49.98,medium,low,5,namecheap,,,06/08/2026 04:09
 da47ddf9-c923-4e22-8753-ffd9d2e043cc,dis.farm,available,15.99,38.99,high,low,3,namesilo,,,24/09/2026 22:25
 d4f70000-3068-4704-b296-1381758e5a19,hasten.farm,available,4.98,49.98,medium,low,6,namecheap,,,09/09/2026 19:47
@@ -525,6 +564,7 @@ ccab7c66-e38f-4c60-bc43-eaea3465ba2a,sides.farm,available,15.99,38.99,medium,low
 d4b64d07-9c8d-41f6-9dbd-7500937da6c7,deco.farm,available,15.99,38.99,high,low,4,namesilo,,,20/09/2026 09:50
 9b6df933-3525-4c72-9b8c-3f945073bd52,severed.farm,available,13.99,50.99,medium,low,7,name.com,,,13/08/2026 12:32
 270b7414-2d25-4e7a-9ed5-a68dc9e2ef91,niobium.farm,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 23:04
+4b2fc190-7164-4671-a844-9c732ada77fb,dlc.farm,available,15.99,38.99,high,low,3,namesilo,,,28/09/2026 12:11
 eed8d484-5f3e-4f4f-843a-eb1d36bdf6af,albuca.farm,available,15.99,38.99,high,low,6,namesilo,,,18/09/2026 03:19
 4ecfef14-ce14-4081-83d6-9839c2c9a007,athos.farm,available,4.98,49.98,medium,low,5,namecheap,,,20/09/2026 21:17
 b30f965b-e99f-440d-9cae-82a12893a862,bakeshop.farm,available,4.98,49.98,high,low,8,namecheap,,,21/09/2026 20:10
@@ -536,6 +576,7 @@ a2791b09-0f04-4c13-a757-08cee5fd029c,airless.farm,available,4.98,49.98,medium,lo
 c9e35408-093f-46ac-bfb5-2e0a9bf8e850,prisoner.farm,available,4.98,49.98,high,low,8,namecheap,,,11/08/2026 18:26
 1a7e86d2-aadf-4248-8293-273aecea8444,skywards.farm,available,4.98,49.98,medium,low,8,namecheap,,,10/09/2026 09:51
 494b2715-5964-440f-b2dc-c7a547a77cb1,accolade.farm,available,15.99,38.99,high,low,8,namesilo,,,16/09/2026 22:45
+aa4d9a74-eb01-41e3-a83b-d21ca8c5fb05,sherlock.farm,available,4.98,49.98,high,low,8,namecheap,,,28/09/2026 15:08
 6d39cb61-9b55-4652-8e1c-864ce80d368a,fatigue.farm,available,15.99,38.99,high,low,7,namesilo,,,25/09/2026 11:36
 d4689f7e-dbcc-46f8-9a4d-6b95c385e66a,allergic.farm,available,4.98,49.98,high,low,8,namecheap,,,22/09/2026 01:25
 08b82af0-b7de-42f1-bfe7-fa1135b29015,antipode.farm,available,4.98,49.98,medium,low,8,namecheap,,,19/09/2026 14:58
@@ -554,9 +595,10 @@ d7476470-c7d9-4c07-a7e2-846728294705,git.farm,premium,118.8,118.8,high,medium,3,
 0100a30c-d70a-422e-bc8a-677432e5c09f,profligate.farm,available,13.99,50.99,medium,low,10,name.com,,,13/08/2026 20:24
 ef0154c4-5533-4df4-a8b9-35a34a462302,homely.farm,available,4.98,49.98,high,low,6,namecheap,,,21/08/2026 11:04
 2a0003d5-3859-492c-a664-9793b297b1e9,trusting.farm,available,4.98,49.98,high,low,8,namecheap,,,11/09/2026 20:47
-43abb94a-9fb6-4cd3-9fb2-e43a1dcf01d4,network.farm,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/11/2022 09:54,29/11/2026 09:54,27/09/2026 01:58
+43abb94a-9fb6-4cd3-9fb2-e43a1dcf01d4,network.farm,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/11/2022 09:54,29/11/2026 09:54,29/09/2026 00:39
 6595de0d-2cad-4058-a7eb-f7d0f8ba8349,transitive.farm,available,4.98,49.98,high,low,10,namecheap,,,11/09/2026 18:55
 2b8d15b1-6bd7-4df4-8a01-8fe7bdd4b7e1,sooner.farm,available,4.98,49.98,high,low,6,namecheap,,,15/09/2026 21:16
+45a276e9-c947-4065-a520-baeaed943104,editing.farm,available,30.2,30.2,high,low,7,cloudflare,,,28/09/2026 13:57
 8a25fb61-3e49-4f81-ab30-880f2063fad8,peed.farm,available,15.99,38.99,medium,low,4,namesilo,,,18/09/2026 08:17
 569d2025-0e28-4986-b62b-90e749875891,custodial.farm,available,4.98,49.98,medium,low,9,namecheap,,,13/08/2026 12:19
 2640bb57-bedf-4aba-af77-cb07da5f09ac,authorship.farm,available,15.99,38.99,high,low,10,namesilo,,,21/09/2026 05:26
@@ -565,27 +607,37 @@ ef0154c4-5533-4df4-a8b9-35a34a462302,homely.farm,available,4.98,49.98,high,low,6
 dbae3311-24b3-4ee4-865b-d5b7b58928ce,wipe.farm,available,7.72,31.41,high,low,4,porkbun,,,27/09/2026 16:23
 217f31ec-bfb2-4c0a-a5d9-dbb17f5ab484,undergraduate.farm,available,13.99,,medium,low,13,name.com,,,
 763bcbb4-75fa-448d-badd-d80fa6994431,cleopatra.farm,available,13.99,,high,low,9,name.com,,,
+27af0684-a79a-48bf-8f76-e5a96e0e06ff,saigon.farm,available,4.34,31.25,medium,low,6,spaceship,,,28/09/2026 10:04
 b1353ef1-9a20-416e-900c-3f74b5cba625,gilded.farm,available,4.98,49.98,high,low,6,namecheap,,,14/08/2026 00:55
 8a4b760c-990a-436c-8954-2d624e3400ed,abvolt.farm,available,4.98,49.98,medium,low,6,namecheap,,,16/09/2026 19:39
 3b56a736-7658-4565-ba08-5fdd497afb5f,genes.farm,available,4.34,31.25,medium,low,5,spaceship,,,28/09/2026 07:05
+3501e0bb-ecb5-4bec-842c-6b6d3bdaebd8,creed.farm,available,30.2,30.2,high,low,5,cloudflare,,,28/09/2026 18:43
 6dea03a2-c7f5-4315-b912-503399320f4c,faithless.farm,available,4.98,49.98,medium,low,9,namecheap,,,17/08/2026 21:14
+eaec76da-0033-4b40-a724-5a8274df1080,expansion.farm,available,30.2,30.2,high,low,9,cloudflare,,,28/09/2026 19:05
 a0078e38-b0fc-4465-bf10-75df5866505d,bloodline.farm,available,4.98,49.98,high,low,9,namecheap,,,08/09/2026 13:11
 856847ce-29c6-4b96-8161-9292ec9ffa18,weepy.farm,available,4.98,49.98,medium,low,5,namecheap,,,13/09/2026 10:06
 b787b657-a0d2-4fcf-abd4-f20f81a82231,diplomacy.farm,available,13.99,,high,low,9,name.com,,,
+bc26a195-c655-4eed-a69b-c48d3a9839d1,henson.farm,available,15,,medium,low,6,unstoppable,,,28/09/2026 14:26
 495c1933-2b4c-4312-92c8-f0bb0d42efff,modern.farm,resell,,,high,low,6,"GoDaddy.com, LLC",22/07/2015 23:07,22/07/2027 23:07,26/09/2026 07:36
 5d66c2d9-8942-4395-acd4-dcd94e8e5360,blase.farm,available,4.98,49.98,medium,low,5,namecheap,,,10/08/2026 13:19
 045e9d8e-b848-4d6a-9f81-a1be53301345,abashed.farm,available,4.98,49.98,medium,low,7,namecheap,,,
 b1297bc2-dfbe-424a-a086-f8c361588192,mournful.farm,available,4.98,49.98,medium,low,8,namecheap,,,14/08/2026 15:16
+aa311069-ac0c-4e8e-bd0b-a636bdfb4e59,espn.farm,available,4.98,49.98,high,low,4,namecheap,,,28/09/2026 08:02
 5bed7a26-fb83-4fc7-a8bf-db12cdb37a1e,aecium.farm,available,15.99,38.99,medium,low,6,namesilo,,,17/09/2026 12:08
+0aa59f6d-8f66-474d-a027-4d29c4b027fe,hymn.farm,available,15.99,38.99,high,low,4,namesilo,,,29/09/2026 01:20
 ad0ba812-b593-4d50-86ed-0ade1c9412c9,radial.farm,available,4.98,49.98,high,low,6,namecheap,,,09/09/2026 09:30
 45bb3221-221d-44eb-a828-199e2478ec32,marketable.farm,available,4.98,49.98,high,low,10,namecheap,,,24/08/2026 16:04
+5b4a29dd-cfaf-4ee1-ac63-2b643f1672d4,developmental.farm,available,15,,medium,low,13,unstoppable,,,29/09/2026 02:36
 74736edd-72f5-4e1c-bd04-b9bb2349100b,arawn.farm,available,15.99,38.99,medium,low,5,namesilo,,,20/09/2026 00:29
 6b41990b-e2a7-481a-870a-efbc52b7ffd0,mesial.farm,available,4.98,49.98,medium,low,6,namecheap,,,24/08/2026 21:08
+23639a49-4a30-4900-944e-6164ca017d29,oates.farm,available,7.72,31.41,medium,low,5,porkbun,,,28/09/2026 19:34
 f5476ed3-7292-40bf-9cf7-55a13fc65678,hack.farm,resell,,,high,medium,4,,,,28/09/2026 01:47
 dd737112-bac4-477d-8439-52c1848e12b9,antabuse.farm,available,4.98,49.98,medium,low,8,namecheap,,,19/09/2026 12:24
 5b9febbd-1bc0-41ef-a9b2-28b5e3a47a83,fosamax.farm,available,15.99,38.99,medium,low,7,namesilo,,,18/09/2026 05:11
 e54c4713-5ea7-4e14-bade-79802d1c5750,dads.farm,premium,118.8,118.8,medium,low,4,namesilo,,,20/09/2026 10:27
 4b712e76-e06e-4895-a4b6-2cb297b28b77,hostile.farm,available,15.99,38.99,medium,low,7,namesilo,,,25/09/2026 00:05
+7df434b0-bd5e-4103-8a23-503c260250e0,blankets.farm,available,15.99,38.99,medium,low,8,namesilo,,,29/09/2026 05:14
+aff23197-f615-4b2f-bf11-3e634d40072c,resign.farm,available,15.99,38.99,high,low,6,namesilo,,,28/09/2026 11:09
 850a0638-1b67-4796-bd14-e2203ee93a9f,amphibia.farm,available,15.99,38.99,high,low,8,namesilo,,,18/09/2026 23:11
 799c06c6-1e82-4090-96de-b50793318041,custer.farm,available,8.99,59.99,medium,low,6,godaddy,,,28/09/2026 01:44
 e40a1fd0-9754-481b-90e5-87208153581d,determined.farm,available,15.99,38.99,high,low,10,namesilo,,,24/09/2026 07:38
@@ -595,10 +647,11 @@ ba048599-8c7c-4db2-9d2d-d341bf41025a,cupule.farm,available,15.99,38.99,medium,lo
 0154cd8d-0828-4c6b-99e4-a1d17ce1c8f2,aurorean.farm,available,4.98,49.98,medium,low,8,namecheap,,,07/08/2026 18:12
 474fce21-5245-40d9-bb95-f87106508c3b,incomplete.farm,available,4.98,49.98,high,low,10,namecheap,,,22/08/2026 01:53
 e63b3e5c-e385-4276-9a3a-0d8077dab0af,antigua.farm,available,15.99,38.99,high,low,7,namesilo,,,19/09/2026 14:32
-cb4840ce-9c7e-4b39-981d-9dc214dd5161,restaurants.farm,available,4.98,49.98,high,low,11,namecheap,,,24/09/2026 21:11
+cb4840ce-9c7e-4b39-981d-9dc214dd5161,restaurants.farm,available,15.99,38.99,medium,low,11,namesilo,,,29/09/2026 00:02
 d7eef4cd-df7b-47a0-8d14-3ee17adc9299,upwind.farm,available,4.98,49.98,high,low,6,namecheap,,,22/08/2026 22:35
 148e5468-79df-4c45-8446-6560d022234b,inflowing.farm,available,4.98,49.98,medium,low,9,namecheap,,,22/08/2026 04:34
 569346f0-a1f8-4bc0-b680-6281e4de4860,touchable.farm,available,4.98,49.98,high,low,9,namecheap,,,11/09/2026 07:57
+1099e96f-fa3c-4724-9e75-568c5e7f4cae,exercises.farm,available,15,,medium,low,9,unstoppable,,,28/09/2026 17:18
 c3db6236-6205-437f-9262-00589e05cec2,norte.farm,available,15.99,38.99,high,low,5,namesilo,,,27/09/2026 07:02
 1612eb18-89d2-424c-ad98-d4608dd8313f,showcase.farm,available,13.99,,high,low,8,name.com,,,
 3cfcd0cc-e0f2-46fc-b559-6b37a1a47050,und.farm,available,15.99,38.99,high,low,3,namesilo,,,25/09/2026 11:22
@@ -613,10 +666,12 @@ d58bf1ae-6c47-41ab-9549-bfc1850c3a1c,firing.farm,available,4.98,49.98,high,low,6
 4468040f-50f1-4a4d-9e03-800d926103fd,murdoch.farm,available,8.99,59.99,medium,low,7,godaddy,,,28/09/2026 01:45
 43454dc1-b6c9-407e-89ca-ce00ea09264a,unknown.farm,available,4.98,49.98,high,low,7,namecheap,,,03/09/2026 12:55
 a55ff851-19c7-4eef-a103-3c8aeba17faf,intensive.farm,available,15.99,38.99,high,low,9,namesilo,,,25/09/2026 09:57
+da6e8574-d429-4e4e-9094-375da9f4e425,devine.farm,available,30.2,30.2,medium,low,6,cloudflare,,,28/09/2026 17:34
 e629b836-a697-4c0b-b4cd-4e6941a855dd,blancmange.farm,available,15.99,38.99,medium,low,10,namesilo,,,24/09/2026 03:51
 508a7f6c-d2b0-4462-bef2-fd6721c713ff,brisk.farm,available,4.98,49.98,high,low,5,namecheap,,,11/08/2026 00:32
 1f992d2f-d54e-4785-b5f3-5b401a180d3c,slighting.farm,available,4.98,49.98,medium,low,9,namecheap,,,09/08/2026 13:15
 d73adee1-a940-4c41-9f64-9a2620414c42,diamonds.farm,available,13.99,,high,low,8,name.com,,,
+d066c7e2-8cd4-4b24-be33-184e7f56ce26,haig.farm,available,7.71,32.21,medium,low,4,dynadot,,,28/09/2026 12:12
 7d2da840-3ee3-4f1b-b632-8989691b9620,sizeable.farm,available,4.98,49.98,high,low,8,namecheap,,,20/08/2026 16:40
 def65b89-ab14-48d9-8fe5-0d8a92ab153c,visualise.farm,available,15.99,38.99,high,low,9,namesilo,,,24/09/2026 16:40
 f2fb89cd-ce2c-44c9-9e76-fe83f4009c8f,fugo.farm,available,15.99,38.99,medium,low,4,namesilo,,,21/09/2026 23:09
@@ -654,7 +709,7 @@ de91ff38-c7f3-4428-88a4-180ef315e990,legislative.farm,available,13.99,,high,low,
 642958f6-5cfa-4dbf-8554-8efb6767c20b,severe.farm,available,15.99,38.99,medium,low,6,namesilo,,,22/09/2026 13:18
 2762afd9-3128-4874-8e65-d253889bdef0,burbling.farm,available,4.98,49.98,medium,low,8,namecheap,,,11/08/2026 10:10
 6a041447-d94c-4d3b-a2d8-9820ec2e8804,athwart.farm,available,4.98,49.98,medium,low,7,namecheap,,,13/09/2026 22:38
-24bac8d6-72c8-499f-bf48-c1db49781863,quickness.farm,available,13.99,,high,low,9,name.com,,,
+24bac8d6-72c8-499f-bf48-c1db49781863,quickness.farm,available,15,,high,low,9,unstoppable,,,28/09/2026 18:29
 ed90e9a0-a051-496c-b9d7-6cf34b5480a7,irascible.farm,available,4.98,49.98,medium,low,9,namecheap,,,21/08/2026 14:18
 b4d5b91f-b318-4b4e-b7f1-ac5d0d4e219e,breaks.farm,available,4.98,49.98,medium,low,6,namecheap,,,17/09/2026 22:04
 678d698c-1ad8-4c00-88e2-2598cffd1dc6,vanguard.farm,available,,,high,high,8,,,,
@@ -666,6 +721,7 @@ f67f401c-061a-44e5-a782-050b1ca71961,bionomics.farm,available,4.98,49.98,high,lo
 66c96229-1bf9-47ee-aeeb-b16ef2c59624,cane.farm,available,13.99,,high,low,4,name.com,,,
 65d19126-cc73-49db-9d41-a39cc1310471,brightly.farm,available,4.98,49.98,high,low,8,namecheap,,,11/08/2026 04:04
 8b7fad68-e933-4583-bc9e-fff671197340,accounting.farm,available,4.34,31.25,high,low,10,spaceship,,,28/09/2026 02:35
+3b8f049c-1651-4c0e-a768-535f9847c099,priorities.farm,available,15.99,38.99,medium,low,10,namesilo,,,28/09/2026 17:39
 0c87192a-8b4c-460a-884d-a38496cb62a1,politic.farm,available,4.98,49.98,high,low,7,namecheap,,,08/09/2026 23:06
 f503f51e-3757-4aaf-92bf-bd86f29d698c,broad.farm,available,15.99,38.99,high,low,5,namesilo,,,19/09/2026 06:03
 2570465e-2f24-4f26-bc5b-38605a82f8ad,lifelessly.farm,available,13.99,50.99,low,low,10,name.com,,,13/08/2026 19:35
@@ -684,6 +740,7 @@ a9774395-a07a-48cb-9997-69e21ecc75c8,defraud.farm,available,4.98,49.98,medium,lo
 81ea760f-4e35-4161-894d-2a87f82dbb6e,hindsight.farm,available,13.99,,high,low,9,name.com,,,
 c7747fe1-9684-4e50-80f9-2660b144e77e,smilax.farm,available,4.98,49.98,high,low,6,namecheap,,,20/09/2026 14:41
 f7db13b2-6fa5-4d42-822b-4170c7020710,breakable.farm,available,4.98,49.98,medium,low,9,namecheap,,,11/08/2026 02:59
+fb718ef2-6c34-4804-91d5-9233b18d4048,exceptions.farm,available,30.2,30.2,low,low,10,cloudflare,,,28/09/2026 23:04
 36b633e3-2626-4d5e-9c57-b823406e05c7,sorely.farm,available,15.99,38.99,medium,low,6,namesilo,,,16/09/2026 05:13
 96146e2a-ecda-4052-b299-ac943820799d,hemophilia.farm,available,4.98,49.98,medium,low,10,namecheap,,,24/09/2026 05:26
 18073f92-8dd3-497f-90bc-ebfe2d0ad59d,semi.farm,available,15.99,38.99,high,low,4,namesilo,,,20/09/2026 11:18
@@ -699,6 +756,7 @@ aec57a5d-5ada-458d-bde4-3d56bfe8bfd1,tending.farm,available,4.98,49.98,high,low,
 88aa67ec-e496-4846-a234-f1e5cefa2ac0,dimorphic.farm,available,4.98,49.98,medium,low,9,namecheap,,,14/08/2026 08:09
 d5f5f4fd-f5b8-46aa-bb31-8155f1dd0177,bardolatry.farm,available,4.98,49.98,medium,low,10,namecheap,,,22/09/2026 05:17
 af8adc66-dc73-425c-9cf9-c02dcdacc811,import.farm,available,4.98,49.98,high,low,6,namecheap,,,25/09/2026 18:33
+1a9ad851-b3d1-4851-98ce-5e68e07e822c,vase.farm,available,7.71,32.21,high,low,4,dynadot,,,28/09/2026 11:03
 043d1349-1b19-4b30-b206-48b7d4bb8825,talks.farm,available,13.99,,high,low,5,name.com,,,
 7b0b3b46-56e8-4d77-aab6-8babec39d48e,annelid.farm,available,4.98,49.98,medium,low,7,namecheap,,,
 d5c3cd5b-7df3-4527-985f-1cbf877393b8,crustacean.farm,available,4.98,49.98,high,low,10,namecheap,,,13/08/2026 09:19
@@ -719,7 +777,7 @@ a4f74edc-7a3c-4dac-9f72-700b85521043,blackguard.farm,available,15.99,38.99,mediu
 268bf296-68b3-4f7e-bf1f-78cbe4dfda01,merchandise.farm,available,4.34,31.25,high,low,11,spaceship,,,28/09/2026 03:28
 c042b326-ada3-494f-adde-75179fabfe61,observable.farm,available,4.98,49.98,high,low,10,namecheap,,,03/09/2026 23:59
 a51cd5be-585b-4c6b-b6c1-ed2a8db7093d,rocklike.farm,available,4.98,49.98,medium,low,8,namecheap,,,20/08/2026 18:00
-09a8ad34-4e77-424f-82cc-103e05cc07c4,overtime.farm,available,13.99,,high,low,8,name.com,,,
+09a8ad34-4e77-424f-82cc-103e05cc07c4,overtime.farm,available,15.99,38.99,high,low,8,namesilo,,,28/09/2026 16:30
 1f3be266-e4eb-4ba9-85d2-61e4ea6d695c,aras.farm,available,15.99,38.99,medium,low,4,namesilo,,,20/09/2026 00:22
 80939ba0-415a-42f7-9135-a02b3f4e7e9d,gustative.farm,available,4.98,49.98,medium,low,9,namecheap,,,20/08/2026 21:08
 32076585-b01e-479a-afe2-24d7ac6f55a6,indirect.farm,available,4.98,49.98,high,low,8,namecheap,,,12/08/2026 16:43
@@ -739,7 +797,7 @@ cdb94b0d-4f45-45b7-8a6d-39235461ec28,sapodilla.farm,available,15.99,38.99,medium
 aa0df84c-3122-4731-96a4-c9864039cd11,operational.farm,available,4.34,31.25,high,low,11,spaceship,,,28/09/2026 07:11
 36f31211-998f-4c4c-baf0-892d37d7a0c1,bifocal.farm,available,4.98,49.98,medium,low,7,namecheap,,,09/08/2026 20:03
 d445d17b-123b-4d73-981b-61b87821d802,ahab.farm,available,4.98,49.98,medium,low,4,namecheap,,,17/09/2026 20:17
-9b19650b-9bbe-4b81-bd34-bf09940a0e56,gun.farm,available,4.98,49.98,high,low,3,namecheap,,,25/09/2026 10:42
+9b19650b-9bbe-4b81-bd34-bf09940a0e56,gun.farm,available,7.72,31.41,high,low,3,porkbun,,,28/09/2026 17:19
 ce1bc13e-cf91-4555-be9a-21bcfb92e191,survive.farm,available,15.99,38.99,high,low,7,namesilo,,,25/09/2026 11:10
 b1b8863a-668a-4303-94ec-9dc98cac28b2,detroit.farm,premium,118.8,118.8,high,low,7,namesilo,,,
 439b05aa-7d52-42a4-ba39-71020f5b94fb,liberate.farm,available,4.98,49.98,high,low,8,namecheap,,,18/08/2026 14:32
@@ -758,27 +816,33 @@ ceb8b2c3-df25-4690-9ccf-cc13fc58b35d,expects.farm,available,15.99,38.99,medium,l
 a0bd4d60-fb58-4d56-a3d2-470b32c40f1f,terence.farm,available,15.99,38.99,medium,low,7,namesilo,,,27/09/2026 15:27
 a7e09612-de11-44ac-89ac-c350a8263958,collapse.farm,available,7.71,32.21,high,low,8,dynadot,,,27/09/2026 12:20
 18e37025-c02f-4d29-b7fe-80e218e760fb,iffy.farm,available,4.98,49.98,medium,low,4,namecheap,,,18/08/2026 09:22
-ce1f8641-e7e7-4407-b28c-ce604130ce98,wooden.farm,premium,242,242,high,low,6,namesilo,,,
+ce1f8641-e7e7-4407-b28c-ce604130ce98,wooden.farm,premium,109.53,218.86,high,low,6,porkbun,,,28/09/2026 10:45
 5fb8097d-d8f1-43f1-a8a0-a9b18a7f4938,analyst.farm,available,4.34,31.25,high,low,7,spaceship,,,28/09/2026 07:53
 75718cb2-5fcd-44a6-89ca-e4b01bd424cf,ending.farm,available,15.99,38.99,high,low,6,namesilo,,,25/09/2026 05:36
-19741eda-fe54-497e-9647-a5caa582639e,suffer.farm,available,13.99,,high,low,6,name.com,,,
+19741eda-fe54-497e-9647-a5caa582639e,suffer.farm,available,15,,medium,low,6,unstoppable,,,28/09/2026 17:46
 f78e919e-ab64-4121-b75b-5fb68f30560b,diagnosis.farm,available,4.98,49.98,high,low,9,namecheap,,,24/09/2026 22:08
 db98ab50-3550-464f-a2a1-06a159fc70ba,pinochle.farm,available,13.99,50.99,medium,low,8,name.com,,,23/09/2026 12:19
 b66e2200-5936-46ba-b79e-a4c482458c04,repellent.farm,available,4.98,49.98,medium,low,9,namecheap,,,14/08/2026 10:39
+6b82d66b-c130-4e5a-8b90-4edd26551305,riggs.farm,available,4.34,31.25,medium,low,5,spaceship,,,28/09/2026 08:07
 e592f1bf-0ac1-41c3-b60d-0875b65abbfb,blahs.farm,available,15.99,38.99,medium,low,5,namesilo,,,24/09/2026 03:42
+bd05b920-b414-4969-a229-80340e9bed9a,foods.farm,resell,,,medium,low,5,,,,28/09/2026 22:58
 8f261cd7-7e32-4c62-bd01-1c63391a175a,osmotic.farm,available,4.98,49.98,medium,low,7,namecheap,,,04/09/2026 18:15
+0751d155-b876-4f69-84f6-137d90cbb54f,livelihood.farm,available,7.71,32.21,high,low,10,dynadot,,,29/09/2026 00:16
 5170718d-8c60-4dd4-81c6-3faaebb89d05,pulverized.farm,available,4.98,49.98,medium,low,10,namecheap,,,18/08/2026 04:41
 fb87da12-84fd-4708-a2e1-19c9051af3aa,adsorption.farm,available,4.98,49.98,medium,low,10,namecheap,,,17/09/2026 10:05
+aa75a779-e5e2-42e7-85bb-4985e94f5a90,edges.farm,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 22:54
 e36bcb8c-1878-44ae-a945-a6994754fab5,fitting.farm,available,4.98,49.98,high,low,7,namecheap,,,18/08/2026 05:50
 7491ec0e-8bba-4f9c-b3a0-8b615d9c0e10,burnished.farm,available,4.98,49.98,medium,low,9,namecheap,,,11/08/2026 10:59
 16c7551f-dcdb-4f1e-a50a-008d2c294c24,bathroom.farm,available,4.98,49.98,high,low,8,namecheap,,,27/09/2026 06:27
+43f40da6-462d-4c01-8aed-17a6ec424938,intern.farm,available,4.34,31.25,high,low,6,spaceship,,,28/09/2026 14:28
 c227487d-472a-4718-9e8f-d57a26f9642e,clan.farm,available,4.98,49.98,high,low,4,namecheap,,,22/08/2026 16:05
+30de08c2-e5e9-4cf2-8cd6-aca7c36c7f05,diesel.farm,available,15.99,38.99,high,low,6,namesilo,,,28/09/2026 09:31
 7abd3c17-4e2c-4da6-ac5b-65b8a882c8b5,sinusoidal.farm,available,4.98,49.98,high,low,10,namecheap,,,10/09/2026 08:42
 ea78cb99-1087-4f2a-b203-449ddfc3d4a1,unisexual.farm,available,4.98,49.98,medium,low,9,namecheap,,,12/09/2026 13:54
 0fc45b95-58c4-4a4c-ab90-40f0f8017941,ambo.farm,available,15.99,38.99,medium,low,4,namesilo,,,18/09/2026 17:17
 7aea4d38-0ba6-41b8-ad59-bfeace4e1485,amiably.farm,available,4.98,49.98,medium,low,7,namecheap,,,13/09/2026 17:50
 9ae5ee78-d890-4b8c-8fa0-52b17f53b276,laxly.farm,available,4.98,49.98,low,low,5,namecheap,,,15/09/2026 11:08
-f972ab04-f497-4e6e-ac92-7245ea01477e,distance.farm,available,13.99,,high,low,8,name.com,,,
+f972ab04-f497-4e6e-ac92-7245ea01477e,distance.farm,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 20:43
 d07ee458-b39d-44ec-853e-97c1086cce38,adient.farm,available,4.98,49.98,medium,low,6,namecheap,,,
 c0ada2d4-62e1-47ff-a6cd-46fa6f4f6c61,unpressed.farm,available,4.98,49.98,low,low,9,namecheap,,,12/09/2026 17:24
 b5755557-f7c3-4a2c-be4a-a7cc3c1f083a,resistance.farm,available,4.98,49.98,high,low,10,namecheap,,,12/09/2026 07:26
@@ -792,10 +856,13 @@ d0be4a52-e769-4058-a48e-f07853d53388,summary.farm,available,15.99,38.99,high,low
 2e5ed53d-aabe-4867-aae2-395b85100b73,cubitus.farm,available,4.98,49.98,medium,low,7,namecheap,,,20/09/2026 11:25
 11fc72fa-dd1a-481d-ac98-1e51aca4a8a3,taxes.farm,available,13.99,,medium,low,5,name.com,,,
 4a423d7a-a683-4b5e-bc5c-7aa09ec7934d,majors.farm,available,15.99,38.99,high,low,6,namesilo,,,23/09/2026 14:46
+1690ccd4-068c-49c0-b5a0-c3b5a75046f0,fergus.farm,available,15.99,38.99,medium,low,6,namesilo,,,29/09/2026 05:30
 82292736-8a3a-4ebc-acc3-d8ac9979bc32,charger.farm,available,15.99,38.99,high,low,7,namesilo,,,22/09/2026 14:35
 905438ea-2157-44f3-a75e-3ea19e954130,weinstein.farm,available,15.99,38.99,high,low,9,namesilo,,,28/09/2026 07:31
+20080af2-4795-4178-9dd3-efbfc8442e08,vote.farm,available,15.99,38.99,high,medium,4,namesilo,,,29/09/2026 00:47
 8a87a90c-ee3d-4112-9d18-0bef2d08f179,blanched.farm,available,4.98,49.98,medium,low,8,namecheap,,,07/08/2026 02:14
 6acec5e1-1903-4137-b8ff-f1a3ec6b202e,meant.farm,available,15.99,38.99,medium,low,5,namesilo,,,25/09/2026 16:51
+0c737e64-0822-4824-8d86-27c7df66e25d,wexford.farm,available,15.99,38.99,medium,low,7,namesilo,,,28/09/2026 21:57
 b486ece6-371e-400e-81b9-32f68b9c29d6,unfirm.farm,available,4.98,49.98,low,low,6,namecheap,,,12/09/2026 10:19
 875019e0-3fdf-4121-a3af-40d78bbaee63,formic.farm,available,4.98,49.98,medium,low,6,namecheap,,,18/08/2026 12:11
 a0e15d88-d436-4bac-9ba8-51f02bc9bd10,sacredly.farm,available,4.98,49.98,medium,low,8,namecheap,,,15/09/2026 23:01
@@ -808,6 +875,7 @@ f53f0670-b64e-4433-955b-68734eb70e19,realistic.farm,available,4.98,49.98,high,lo
 190c0f94-7509-40c2-9ddb-23d8a1cc6c9d,returned.farm,available,13.99,,high,low,8,name.com,,,
 e1af0875-995e-48a9-9ffc-dc2e286ebff4,upmarket.farm,available,4.98,49.98,high,low,8,namecheap,,,12/09/2026 23:13
 ae623f61-d49f-42ad-af46-e412e1238a9f,responsive.farm,available,15.99,38.99,high,low,10,namesilo,,,22/09/2026 06:49
+75131643-d2e6-4ac6-b651-a118c35b5979,buyers.farm,available,15.99,38.99,medium,low,6,namesilo,,,29/09/2026 05:47
 77d808f9-dd08-4435-9272-895344d4e76f,detailed.farm,available,4.98,49.98,high,low,8,namecheap,,,24/09/2026 07:09
 cd979af9-861a-4d3c-a3d4-3c68776dc0e2,fails.farm,available,15.99,38.99,medium,low,5,namesilo,,,18/09/2026 00:27
 fd9db9c3-96f5-4a57-ae9d-ed543ff6e389,scots.farm,available,4.98,49.98,high,low,5,namecheap,,,09/09/2026 23:33
@@ -823,6 +891,7 @@ a571bc14-1fd9-41ca-9d54-29058451a2f0,arno.farm,available,4.98,49.98,high,low,4,n
 652fddee-4ceb-441e-9260-c89c46a70bdc,adept.farm,available,15.99,38.99,high,low,5,namesilo,,,21/09/2026 17:17
 0acf0490-a024-4a17-9652-0b393d01578d,clump.farm,available,4.98,49.98,high,low,5,namecheap,,,11/09/2026 15:08
 ee5748fb-fc4b-4e03-b87e-7cbe55bb58e5,beep.farm,available,15.99,38.99,high,low,4,namesilo,,,23/09/2026 01:26
+3d081dc7-1ae1-44a4-80ea-cbf56441aa55,facies.farm,available,7.72,31.41,medium,low,6,porkbun,,,29/09/2026 04:47
 7ce7fe0b-9f86-4da6-8406-7f7446c396dc,eloquently.farm,available,4.98,49.98,medium,low,10,namecheap,,,13/09/2026 20:54
 1626391a-76c5-4664-94f8-87a6a54a2c7d,withdraw.farm,available,4.98,49.98,high,low,8,namecheap,,,24/09/2026 19:10
 4eae1611-be61-4be5-9bf3-a22b6c82550e,bulldog.farm,available,15.99,38.99,high,low,7,namesilo,,,24/09/2026 11:08
@@ -830,9 +899,11 @@ ee5748fb-fc4b-4e03-b87e-7cbe55bb58e5,beep.farm,available,15.99,38.99,high,low,4,
 a5a8e5df-7c08-4b44-a417-2066902ece34,credibly.farm,available,4.98,49.98,medium,low,8,namecheap,,,14/09/2026 09:26
 0a7224ad-155f-48c5-bb9c-d8905a3ff109,antic.farm,available,4.98,49.98,high,low,5,namecheap,,,
 69fdddf8-a5a1-4a44-9645-b11048f507e1,chuffed.farm,available,4.98,49.98,medium,low,7,namecheap,,,12/08/2026 07:37
+95e87a98-3259-463d-a3da-89fdf6e96108,langdon.farm,available,15,,medium,low,7,unstoppable,,,28/09/2026 16:35
 14b5ccde-32ae-4cd2-af79-7585938a63ba,torre.farm,available,15.99,38.99,high,low,5,namesilo,,,28/09/2026 03:40
 78e3d541-26fb-4c43-adfc-5cda110a8b27,passionately.farm,available,13.99,,high,low,12,name.com,,,
 a5bdb3ae-7453-4511-a3e8-c3329742cd03,wedded.farm,available,4.98,49.98,high,low,6,namecheap,,,13/09/2026 09:30
+5d62a7da-b7df-4ef6-9592-74b18d464258,oahu.farm,available,4.34,31.25,medium,low,4,spaceship,,,28/09/2026 10:38
 55adb5a5-4be2-4fd4-bf5a-a559081f0dab,souls.farm,available,13.99,,high,low,5,name.com,,,
 fed3d4b0-44e5-40ab-a6f6-edd207e0af33,screechy.farm,available,4.98,49.98,medium,low,8,namecheap,,,10/09/2026 00:01
 f0a0b3c2-a497-4c9d-9f20-02f3e1144cd3,patronize.farm,available,4.98,49.98,medium,low,9,namecheap,,,18/08/2026 15:08
@@ -844,6 +915,8 @@ ebd9cea9-a3d8-47f3-9b67-c16006d991d4,fateful.farm,available,4.98,49.98,medium,lo
 d11bb180-774b-4faf-a269-e3fc7728337f,anarchism.farm,available,15.99,38.99,medium,low,9,namesilo,,,19/09/2026 02:24
 686a6808-ab83-4ed5-b2eb-362515660e24,spend.farm,available,13.99,,high,low,5,name.com,,,
 32d2ced3-3b6d-42fa-b5e5-fc569764fcc5,aiai.farm,available,15.99,38.99,high,low,4,namesilo,,,17/09/2026 20:43
+44fe7502-fbb4-4c4a-bebf-7c35755a1d02,medford.farm,available,15.99,38.99,medium,low,7,namesilo,,,28/09/2026 10:21
+5699f946-2c00-48da-83f0-38ef76b0bcec,sandwiches.farm,available,15,,medium,low,10,unstoppable,,,28/09/2026 13:26
 2b287ca1-7f8a-4603-8b16-6a375ad665a5,dystopian.farm,available,4.98,49.98,medium,low,9,namecheap,,,14/08/2026 22:10
 b0c887de-e281-4597-a9bc-7854af1e601b,integrally.farm,available,4.98,49.98,medium,low,10,namecheap,,,15/09/2026 08:51
 617affa4-0092-40a5-a3b8-cc136a629b11,bettering.farm,available,4.98,49.98,high,low,9,namecheap,,,09/08/2026 18:11
@@ -885,9 +958,10 @@ d7bbdecc-861a-471e-92e8-b3d7f7673380,speedup.farm,available,13.99,,high,low,8,na
 2b91785d-ca69-4b03-b04d-932ddd51e380,cutaneal.farm,available,13.99,50.99,medium,low,8,name.com,,,13/08/2026 12:57
 a388dc78-d699-4d34-8ae5-e482ee338f50,asthenia.farm,available,15.99,38.99,medium,low,8,namesilo,,,20/09/2026 17:17
 ffc3bf00-c947-459f-a42b-294a67ee3f68,anguis.farm,available,4.98,49.98,medium,low,6,namecheap,,,19/09/2026 07:34
+3cf3e012-022c-4221-bed3-4a55203ddda0,compelled.farm,available,15.99,38.99,low,low,9,namesilo,,,28/09/2026 23:06
 d3ee1c40-0741-45f2-b2d0-236514adddcb,ramate.farm,available,4.98,49.98,medium,low,6,namecheap,,,11/08/2026 02:17
 c6ed9faa-3342-4376-be72-39e946466247,dishonest.farm,available,4.98,49.98,medium,low,9,namecheap,,,11/08/2026 03:44
-74e52069-324b-4556-861e-fdd0d07b39ab,injure.farm,available,13.99,,high,low,6,name.com,,,
+74e52069-324b-4556-861e-fdd0d07b39ab,injure.farm,available,15.99,38.99,medium,low,6,namesilo,,,28/09/2026 11:07
 b7f860cd-77bb-4c9c-8da1-fcaeeca99853,enemy.farm,available,30.2,30.2,high,low,5,cloudflare,,,28/09/2026 05:07
 1ccc8a1f-c683-48cf-89a5-190bd8e3942d,crusty.farm,available,4.98,49.98,medium,low,6,namecheap,,,13/08/2026 09:26
 3f8766eb-028c-4895-98be-1ef5fc21182b,ageless.farm,available,4.98,49.98,high,low,7,namecheap,,,
@@ -896,9 +970,10 @@ b7f860cd-77bb-4c9c-8da1-fcaeeca99853,enemy.farm,available,30.2,30.2,high,low,5,c
 a73f3d45-4284-4c8d-b34e-3dcc8dc7b568,depress.farm,available,13.99,,medium,low,7,name.com,,,
 58e587cd-3677-462d-a3e4-bd9ce0684bbc,siberian.farm,available,4.34,31.25,high,low,8,spaceship,,,27/09/2026 21:41
 a84fba9c-2e74-4ae1-a2b3-2567bd5f5f80,blattodea.farm,available,4.98,49.98,medium,low,9,namecheap,,,24/09/2026 04:54
+2ef289e2-d0f3-4e5c-ae82-0eabaa99dcaf,pits.farm,available,4.34,31.25,low,low,4,spaceship,,,28/09/2026 23:33
 16b409f6-2a38-4cbe-b921-c73a167a1a55,inexpensive.farm,available,13.99,,high,low,11,name.com,,,
 208d120e-7ca5-48d2-834f-703bf5b3e8f5,calmness.farm,available,4.98,49.98,high,low,8,namecheap,,,11/08/2026 14:56
-86e1a095-f66b-4983-89a1-80ffd748836c,also.farm,available,13.99,,high,low,4,name.com,,,
+86e1a095-f66b-4983-89a1-80ffd748836c,also.farm,available,15.99,38.99,high,low,4,namesilo,,,28/09/2026 12:05
 ffe28de5-996e-47bb-95a9-261e0ac9b5b6,curved.farm,available,4.98,49.98,high,low,6,namecheap,,,13/08/2026 11:47
 fc760523-8025-422d-93dc-2edcacb2a6bc,designer.farm,available,4.98,49.98,high,low,8,namecheap,,,20/09/2026 02:12
 8bf2c3f3-7b95-4c66-96d4-3d8ca3a8417c,conqueror.farm,available,4.98,49.98,high,low,9,namecheap,,,24/09/2026 17:25
@@ -907,6 +982,7 @@ fd5727b9-f810-4a06-9b8b-4a3a7fa34398,direction.farm,available,13.99,,high,low,9,
 2b6ad2a1-7b31-48f1-905f-9b769b7f516a,breastfeed.farm,available,13.99,,high,low,11,name.com,,,
 24e1ca12-fa5c-4bc4-8127-b533f2a25102,lull.farm,available,4.98,49.98,high,low,4,namecheap,,,11/08/2026 15:04
 92dc7b4a-7e0e-4bae-b621-af17ebcb8f16,truthfully.farm,available,15.99,38.99,medium,low,10,namesilo,,,16/09/2026 09:34
+c3c6b51f-cfc7-40a5-8a6f-3bcf2594b4a6,uri.farm,available,15,,high,low,3,unstoppable,,,28/09/2026 21:32
 7050010e-d1aa-481d-b4ca-b1b1cfee679f,impressive.farm,available,4.98,49.98,high,low,10,namecheap,,,21/08/2026 23:04
 eb3ee9a2-e6d2-40ad-98db-7abd569b8eab,aubrey.farm,available,15.99,38.99,high,low,6,namesilo,,,27/09/2026 07:41
 842aac3c-4984-45a4-9a65-5a2f997dbbd1,dominic.farm,available,4.98,49.98,high,low,7,namecheap,,,27/09/2026 03:45
@@ -923,79 +999,3 @@ f0958f14-04c9-4056-8b7d-4515055a4ea5,hangar.farm,available,15.99,38.99,high,low,
 33586974-a617-480a-9673-41dece3075fb,kodiak.farm,available,15.99,38.99,high,low,6,namesilo,,,18/09/2026 02:05
 ea27628d-730c-4d5a-9673-c338e3e523ce,alp.farm,available,15.99,38.99,high,low,3,namesilo,,,18/09/2026 13:29
 840e4729-cdcd-4d28-b62b-faab4e005016,apus.farm,available,15.99,38.99,medium,low,4,namesilo,,,19/09/2026 22:43
-83cc62a5-1185-4af5-8fbc-2f26f8b8c2dd,wrecked.farm,available,13.99,,medium,low,7,name.com,,,
-1c39f32c-4dc8-4dac-85bc-36f5a4b05a07,uncreative.farm,available,4.98,49.98,medium,low,10,namecheap,,,12/09/2026 06:24
-6ce8cd89-172a-4f36-9a07-b9bb4dfd1629,version.farm,available,13.99,,high,low,7,name.com,,,
-c994ac5d-afc1-47d6-ad83-7fbb8f38ae92,nonskid.farm,available,4.98,49.98,medium,low,7,namecheap,,,03/09/2026 20:36
-fe76829d-8319-405a-a2a7-f66a17c65325,vandyke.farm,available,15.99,38.99,medium,low,7,namesilo,,,19/09/2026 13:44
-988f507b-dba8-4755-82fa-93633d95a0a3,shuttle.farm,available,30.2,30.2,high,low,7,cloudflare,,,27/09/2026 15:53
-a537daac-7d5f-4958-bed3-a17955416924,akhenaton.farm,available,15.99,38.99,medium,low,9,namesilo,,,17/09/2026 23:57
-fa37cdac-dd65-4110-9d48-aff6e5dd384c,righted.farm,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 15:58
-be6fc0ae-ca04-4968-ace1-9794baee9ed2,henbane.farm,available,15.99,38.99,high,low,7,namesilo,,,24/09/2026 00:54
-3591384f-f5d8-4cf1-a41b-2bd4a79af46c,spiritless.farm,available,4.98,49.98,medium,low,10,namecheap,,,10/09/2026 15:54
-84a00bca-909f-4b22-9351-02c3fc2d0298,subdued.farm,available,4.98,49.98,medium,low,7,namecheap,,,14/08/2026 07:54
-7df78775-754c-4855-97f5-4472df6569e7,amendment.farm,available,4.98,49.98,high,low,9,namecheap,,,18/09/2026 18:38
-3f77fe1a-8921-4027-bede-c2a3c9680244,anura.farm,available,15.99,38.99,medium,low,5,namesilo,,,19/09/2026 15:53
-ab8993d0-c87e-45e0-898d-a27ddd0b9050,cephalopod.farm,available,4.98,49.98,medium,low,10,namecheap,,,12/08/2026 00:21
-c274e856-df31-4a16-9d07-a6f54c65f382,amon.farm,available,4.98,49.98,high,low,4,namecheap,,,18/09/2026 18:27
-509c8ae1-3e96-4f1d-8247-41fee0b73f80,syriac.farm,available,15,,high,low,6,unstoppable,,,28/09/2026 03:24
-5fde1c1f-35ee-4aef-b1c0-9e40ceff4492,ultrasonic.farm,available,4.98,49.98,high,low,10,namecheap,,,11/09/2026 22:51
-a0f4a716-0b54-4195-87c8-e5fb4fd2086d,isthmian.farm,available,4.98,49.98,medium,low,8,namecheap,,,22/08/2026 11:34
-60ea2aa4-b746-4c37-8db0-1257f7db3143,blackness.farm,available,4.98,49.98,medium,low,9,namecheap,,,10/08/2026 10:54
-cb3906ed-ce26-4113-a5ce-ee4b5689e747,vertebral.farm,available,4.98,49.98,medium,low,9,namecheap,,,13/09/2026 04:33
-0b448853-fb4b-4d09-8ba6-c76bd501b04c,carried.farm,available,15.99,38.99,medium,low,7,namesilo,,,25/09/2026 17:00
-cb3625fe-cf67-47f0-8732-9fdab78dff91,days.farm,available,13.99,,high,low,4,name.com,,,
-104b9ab0-8d86-407e-9609-1deaf34347c2,pare.farm,available,4.98,49.98,high,low,4,namecheap,,,11/09/2026 20:00
-dee59dd4-91da-495e-b864-461a0934cb9e,malformed.farm,available,4.98,49.98,medium,low,9,namecheap,,,13/08/2026 23:43
-028604c5-fd9b-41b8-aaee-8458461bce0b,hierarchic.farm,available,4.98,49.98,medium,low,10,namecheap,,,21/08/2026 08:20
-e99b541a-3667-4498-a72c-c2b63e09d1e5,maltese.farm,available,4.98,49.98,high,low,7,namecheap,,,24/08/2026 14:15
-efbda72c-75f4-4494-96c0-87d3d657b9ea,knotted.farm,available,4.98,49.98,medium,low,7,namecheap,,,20/08/2026 15:40
-5bf6b389-23c7-4012-b098-29aacfb6e0f2,sweat.farm,available,13.99,,high,low,5,name.com,,,
-e3981876-b8c2-4f25-9d32-fbe58a2defa9,damned.farm,available,15.99,38.99,medium,low,6,namesilo,,,22/09/2026 21:41
-4148c6fe-773c-4d9f-82e3-051d75aac930,synchronise.farm,available,13.99,,high,low,11,name.com,,,
-c14263f0-f675-4716-b145-fbf703857455,asimov.farm,available,15.99,38.99,high,low,6,namesilo,,,20/09/2026 14:15
-17908663-8476-47b0-bb34-7dac99d18f9d,camille.farm,available,15.99,38.99,high,low,7,namesilo,,,27/09/2026 07:42
-7af6b756-9360-4fe4-ac47-7b4337d4d38c,clothed.farm,available,4.98,49.98,high,low,7,namecheap,,,12/08/2026 09:12
-6a22a3e9-01b3-453c-9a63-3e63fefe6765,artemia.farm,available,15.99,38.99,medium,low,7,namesilo,,,20/09/2026 10:09
-54217eff-742c-4f96-a154-60e9229761eb,tended.farm,available,15.99,38.99,medium,low,6,namesilo,,,18/09/2026 22:30
-6f725e0c-9e97-4f0b-afa7-4d64c288da26,reserve.farm,available,4.98,49.98,high,low,7,namecheap,,,06/08/2026 09:16
-79abbac4-430b-47e0-aaf8-2b9543dcd8bc,velvetleaf.farm,available,4.98,49.98,high,low,10,namecheap,,,16/09/2026 19:24
-cf35fcbc-24a1-4732-9001-3906f41fc748,great.farm,resell,,,high,medium,5,"Spaceship, Inc.",01/04/2017 20:31,01/04/2027 20:31,26/09/2026 06:29
-a4f65806-15ed-4312-9a36-25bfb75a06d0,nuclei.farm,available,4.98,49.98,medium,low,6,namecheap,,,
-d5c55af4-ef3f-41f0-9d22-3ff68b56d644,sweatshirt.farm,available,13.99,,high,low,10,name.com,,,
-c656cfb6-e4c5-40b0-a36b-e6e127e33bec,writing.farm,available,13.99,,high,low,7,name.com,,,
-20d9c8b8-6ef2-4c96-8ab6-53cd6feb538c,meld.farm,available,13.99,50.99,high,low,4,name.com,,,22/09/2026 11:20
-a434f1ea-fa1c-44dc-9bcf-90919e9cf65c,sable.farm,available,4.98,49.98,high,low,5,namecheap,,,14/08/2026 23:11
-9433ec13-aae3-49c1-9559-83d6dedcf92d,simone.farm,available,15.99,38.99,high,low,6,namesilo,,,27/09/2026 07:19
-e508100c-c558-4d36-a305-19aad49f784b,maidens.farm,available,13.99,,high,low,7,name.com,,,
-c99dd9ea-87f1-4bb3-973c-5d6035d9f0d6,pair.farm,available,13.99,,high,low,4,name.com,,,
-a154b679-0d16-4c7a-b349-6485499ba20a,shogunate.farm,available,15.99,38.99,medium,low,9,namesilo,,,21/09/2026 05:18
-ba722a27-72f9-4e20-81d7-35ae8743414c,jot.farm,available,13.99,,high,low,3,name.com,,,
-de0eda88-6ade-41fd-a20a-fe3193056df3,massage.farm,available,,,high,low,7,,,,
-612b231b-395e-4980-94d9-2a049485126d,harnessed.farm,available,4.98,49.98,medium,low,9,namecheap,,,21/08/2026 01:05
-517627be-4dc4-4e09-85dc-8d8617c343bd,azo.farm,available,4.98,49.98,high,low,3,namecheap,,,08/08/2026 02:17
-31fd32da-82f1-4353-bea2-8dd5755eb7eb,oleaceous.farm,available,4.98,49.98,medium,low,9,namecheap,,,04/09/2026 02:06
-b98482c5-7e60-44d8-8d4e-b6af3e5d8ab6,mouthy.farm,available,13.99,,medium,low,6,name.com,,,
-70b84c83-fda5-473d-ab98-b28ec565d61a,concentrated.farm,available,13.99,,high,low,12,name.com,,,
-a178086d-6b9c-4e2f-ba9b-e333ce9239e3,visibly.farm,available,4.98,49.98,medium,low,7,namecheap,,,16/09/2026 11:04
-08bb9d1f-3657-4638-8393-69b60faa4c7f,closes.farm,available,4.34,31.25,medium,low,6,spaceship,,,28/09/2026 05:00
-d441a23b-07b2-42fc-9e4a-a92bf27e786d,borodin.farm,available,4.98,49.98,high,low,7,namecheap,,,18/09/2026 05:02
-e72cc4a3-0b2f-4977-b863-5a66d66b6f1e,advance.farm,resell,13.99,50.99,high,low,7,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,26/09/2026 01:23
-4facaf5b-89fe-48c4-91d3-d668b70f3fe1,fiercely.farm,available,13.99,,medium,low,8,name.com,,,
-6e9ff4aa-4c51-4db0-8031-6c57584c1b7f,assyrian.farm,available,4.98,49.98,high,low,8,namecheap,,,20/09/2026 16:49
-07dd689d-856b-44a5-bcec-dec3779ea6e7,motivate.farm,available,4.98,49.98,high,low,8,namecheap,,,27/09/2026 07:34
-c84ccee4-ea90-430b-9be7-11003f281c85,stubbornly.farm,available,4.98,49.98,medium,low,10,namecheap,,,14/09/2026 10:12
-a188b80b-54ad-47e0-8135-9660c08f59d0,rican.farm,available,15.99,38.99,high,low,5,namesilo,,,25/09/2026 13:13
-1f01a42d-b64e-4ee4-9b81-30ae6bef3afe,phallic.farm,available,4.98,49.98,medium,low,7,namecheap,,,08/09/2026 18:31
-31d9fb4b-f728-4452-8144-80228ad36efb,durer.farm,available,15.99,38.99,medium,low,5,namesilo,,,18/09/2026 03:18
-cf9309e6-773e-4e8d-a825-adb85c6e7fa6,universally.farm,available,13.99,,high,low,11,name.com,,,
-9c889473-4c69-4b01-801d-cadfdcf09a05,chatoyant.farm,available,4.98,49.98,medium,low,9,namecheap,,,12/08/2026 03:13
-52a15ce8-2403-4928-8a0d-f7aafa135ac4,crackpot.farm,available,4.98,49.98,medium,low,8,namecheap,,,10/09/2026 00:10
-906134a2-93fa-468e-8638-9228a1047408,observation.farm,available,15.99,38.99,high,low,11,namesilo,,,28/09/2026 07:02
-776e399b-253d-46e8-bf49-48c64d01a786,victories.farm,available,15.99,38.99,medium,low,9,namesilo,,,18/09/2026 09:23
-8ac9b114-fddb-407a-a808-be3e02973aca,stinky.farm,available,4.98,49.98,high,low,6,namecheap,,,13/08/2026 05:18
-a20fb5c1-9404-47e1-94d6-68ec6385eb3f,shadows.farm,available,15.99,38.99,medium,low,7,namesilo,,,18/09/2026 03:26
-ca616fc4-adb2-4b7f-bf47-23f603074d35,jorge.farm,available,15.99,38.99,high,low,5,namesilo,,,25/09/2026 13:21
-a0e62625-f5a1-4117-b174-cdb874828922,thereby.farm,available,15.99,38.99,medium,low,7,namesilo,,,16/09/2026 08:39
-e46e5204-09f7-4d52-ab2f-928447face58,tobin.farm,available,7.72,31.41,high,low,5,porkbun,,,28/09/2026 06:04
-256b2d38-9ce4-4b45-8487-2912105b6efe,operating.farm,available,4.98,49.98,high,low,9,namecheap,,,04/09/2026 16:26
