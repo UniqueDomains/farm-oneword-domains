@@ -1,10 +1,10 @@
-# Available .FARM One-Word Domains (25,678)
+# Available .FARM One-Word Domains (27,946)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C678%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C946%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .farm one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,678 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,946 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,678 domains · **Median ask:** $11.86 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 27,946 domains · **Median ask:** $11.97 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/farm`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | tab.farm     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
 | bpi.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
 | gay.farm     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| dads.farm    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
-| dis.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| dads.farm    | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                                  |
+| cet.farm     | available | $30.20    | $30.20        | medium         | low    | 3      | cloudflare                                                |
 | beer.farm    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
 | derby.farm   | premium   | $33.50    | —             | high           | low    | 5      | unstoppable                                               |
-| dlc.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| dis.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
 | care.farm    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | clovis.farm  | premium   | $38.94    | $38.94        | medium         | low    | 6      | namesilo                                                  |
-| doe.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| dlc.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
 | dive.farm    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| irving.farm  | premium   | $118.80   | $118.80       | medium         | low    | 6      | namesilo                                                  |
-| eon.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| flores.farm  | premium   | $18.30    | $36.55        | high           | low    | 6      | porkbun                                                   |
+| doe.farm     | available | $15.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
 | gate.farm    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 36                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,678 live domains                        |
+| 1,000-row public sample | 27,946 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FARM One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
